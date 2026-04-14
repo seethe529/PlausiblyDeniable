@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Allow Manuscript and Outline folders
+!Manuscript/
+!Manuscript/**
+!Outline/
+!Outline/**
+
+# Exclude system files
+.DS_Store
+**/.DS_Store
+
+# Allow this file and README
+!.gitignore
+!README.md
