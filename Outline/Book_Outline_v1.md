@@ -1,6 +1,6 @@
 # Book Outline — Version 1 (Draft)
 
-**Working Title:** TBD  
+**Working Title:** Plausibly Deniable  
 **Structure:** Narrative non-fiction / memoir-exposé hybrid  
 **POV:** First person (Ryan Lingo)
 
