@@ -25,7 +25,7 @@ Document the period following Ryan's hospitalization — the homecoming, the sus
 
 ---
 
-# Chapter 3: The Noise
+# Chapter 4: The Noise
 
 My brother picked me up in his truck.
 
