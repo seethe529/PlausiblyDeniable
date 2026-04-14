@@ -127,7 +127,7 @@ They didn't see it.
 
 What I got back was the particular silence that offices are very good at, the kind that isn't refusal exactly, just the absence of acknowledgment. The kind that leaves you holding the thing you tried to hand someone, alone again with it.
 
-I had wishful thinking. I know that now. But I also know that wishful thinking, in the absence of any other viable option, is not delusion. It's endurance. It's the decision to keep trying even when the evidence suggests you shouldn't.
+I had wishful thinking. I know that now. But I also know that wishful thinking, in the absence of any other viable option, is not weakness. It's endurance. It's the decision to keep trying even when the evidence suggests you shouldn't.
 
 I kept trying.
 
