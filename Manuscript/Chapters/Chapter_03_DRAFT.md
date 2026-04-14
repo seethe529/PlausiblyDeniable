@@ -32,7 +32,7 @@ That's the honest place to start, not with what happened, but with where I was w
 
 It was Jim Estes who asked me. Jim managed the task order and was the person I reported to day to day, affable, sharp in his own way, the kind of colleague who made work feel collegial. He framed it casually, the way you frame something when the answer is already assumed. David Williams needed someone for a financial dashboarding project. Was I interested? I was. I didn't know then that Jim asking instead of David telling was itself a structure. That the distance between the request and the person who wanted it filled was deliberate.
 
-The Leidos office was in its own building. Leidos owned the whole thing. The conference room had large windows. I remember that specifically: the light coming in, the kind of room that feels important before anything important has happened in it.
+The Leidos office was on Virginia Avenue in Washington, D.C., their Capitol Hill office. The conference room had large windows. I remember that specifically: the light coming in, the kind of room that feels important before anything important has happened in it.
 
 The day before my onboarding I was in that building for something else. Four FAA senior leaders walked past me and into that room. I watched them go. I didn't think about it too hard. The next day I would be sitting where they had sat, and I didn't know that yet.
 
