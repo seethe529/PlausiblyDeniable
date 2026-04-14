@@ -28,13 +28,13 @@ Introduce the UAP discovery. Establish what Ryan saw in the data, why it mattere
 
 The tool didn't exist until I made it exist.
 
-That's the thing people don't fully understand about this kind of work — there was no template, no existing system I was adapting or improving. I was writing Python scripts from scratch, in my apartment in Navy Yard, building something that had no predecessor in this specific application. This was before the current wave of AI tools made that kind of development accessible to anyone with a browser and a prompt. It was just me, the language, and a problem that wouldn't leave me alone.
+That's the thing people don't fully understand about this kind of work. There was no template, no existing system I was adapting or improving. I was writing Python scripts from scratch, in my apartment in Navy Yard, building something that had no predecessor in this specific application. This was before the current wave of AI tools made that kind of development accessible to anyone with a browser and a prompt. It was just me, the language, and a problem that wouldn't leave me alone.
 
-The reports came in through two channels — an internal application and through senior leadership — funneling down through the Air Traffic Control System Command Center. Other analysts were already dashboarding them, and what the dashboards were showing was hard to ignore: UAP reports were increasing at a statistically significant rate. That finding didn't come from me. It came from the institutional apparatus doing what it was built to do — measuring, tracking, flagging. The numbers said something was happening.
+The reports came in through two channels, an internal application and through senior leadership, funneling down through the Air Traffic Control System Command Center. Other analysts were already dashboarding them, and what the dashboards were showing was hard to ignore: UAP reports were increasing at a statistically significant rate. That finding didn't come from me. It came from the institutional apparatus doing what it was built to do — measuring, tracking, flagging. The numbers said something was happening.
 
 My job was to ask what.
 
-The reports that made their way to me came through Matthew Thompson. Aircraft operators — pilots and crew who had seen something they couldn't explain and filed accordingly. By the time they reached me they had already passed through institutional hands. Leadership had looked at them and decided they were worth examining. That pre-selection mattered. These weren't fringe reports scraped from the internet. These were documented encounters that the FAA had determined deserved a closer look.
+The reports that made their way to me came through Matthew Thompson. Aircraft operators, pilots and crew who had seen something they couldn't explain and filed accordingly. By the time they reached me they had already passed through institutional hands. Leadership had looked at them and decided they were worth examining. That pre-selection mattered. These weren't fringe reports scraped from the internet. These were documented encounters that the FAA had determined deserved a closer look.
 
 John Evans was an FAA employee I worked closely with during this period — one of the few people I could show the work to in real time, the only person who saw my excitement as it was happening rather than after the fact. That matters in this kind of work. When you're building something alone, in an apartment, over months, you need at least one person who can look at the screen and understand what they're seeing. John was that person. He was sharp — genuinely technical, the kind of person who could engage with the architecture of what I was building rather than just the surface of it. At one point there was a specific method in the Skyfield library we worked through together — a detail in the implementation that mattered for the geometry to be right. He understood it. That kind of collaboration, small as it was, meant something.
 
@@ -42,7 +42,7 @@ What we were building, eventually, was this: a three dimensional render of the a
 
 You could draw a line. Aircraft to satellite. And either the geometry worked — the sun was right, the angle was right, the orbit intersected — or it didn't.
 
-Months of scripting for that. Months of iteration, of running the code and finding what was wrong with it, of slowly building something precise enough to be trusted. At some point Leidos noticed — a short internal broadcast feature landed in my email, a quiet institutional acknowledgment that what I was building was worth knowing about. I bookmarked it. I didn't think too hard about what it meant at the time.
+Months of scripting for that. Months of iteration, of running the code and finding what was wrong with it, of slowly building something precise enough to be trusted. At some point Leidos noticed. A short internal broadcast feature landed in my email, a quiet institutional acknowledgment that what I was building was worth knowing about. I bookmarked it. I didn't think too hard about what it meant at the time.
 
 I worked at my standing desk. The apartment was quiet. I had the data and I had the problem and I had time, and I put all three together the way you do when you believe the work is worth doing.
 
@@ -68,11 +68,11 @@ I wished I could have told her.
 
 On November 1st, 2022, we submitted the abstract.
 
-The full title was "Comparing Reports of Unidentified Aerial Phenomena to Starlink Satellite Orbits." Abstract #1240. Submitted to the 2023 ESRI User Conference — the largest GIS conference in the world, held every year in San Diego. Twenty thousand attendees. The most significant platform in the field.
+The full title was "Comparing Reports of Unidentified Aerial Phenomena to Starlink Satellite Orbits." Abstract #1240. Submitted to the 2023 ESRI User Conference, the largest GIS conference in the world, held every year in San Diego. Twenty thousand attendees. The most significant platform in the field.
 
-The names on it were Matthew Thompson, John Evans, and mine. That was Thompson's call — the federal employees had their names on it, and I was the contractor who had built the thing. I didn't argue with the order. I understood how it worked. What mattered was that the work was going out into the world under my name, attached to something real, something that could be evaluated and tested and built upon.
+The names on it were Matthew Thompson, John Evans, and mine. That was Thompson's call. The federal employees had their names on it, and I was the contractor who had built the thing. I didn't argue with the order. I understood how it worked. What mattered was that the work was going out into the world under my name, attached to something real, something that could be evaluated and tested and built upon.
 
-I was beyond excited. This was going to be the biggest moment of my career. The conference was scheduled for July 10th through the 14th in San Diego. I knew there would be preparation — slides, a presentation, the kind of public-facing work that's different from building something alone at a standing desk. I was anxious about that part. But underneath the anxiety was something I hadn't felt in a long time: the certainty that I had done something worth showing.
+I was beyond excited. This was going to be the biggest moment of my career. The conference was scheduled for July 10th through the 14th in San Diego. I knew there would be preparation: slides, a presentation, the kind of public-facing work that's different from building something alone at a standing desk. I was anxious about that part. But underneath the anxiety was something I hadn't felt in a long time: the certainty that I had done something worth showing.
 
 The tool existed. The work was documented. My name was on it.
 
@@ -82,7 +82,7 @@ Not every report pointed to a satellite.
 
 That's the part that requires care to describe accurately, because it's easy to overstate and easy to understate, and both would be dishonest. The tool worked on all of them. That's the first thing to understand. It wasn't that the visualization broke down or the methodology failed. It was that when you drew the line — aircraft to orbit segment, sun angle, geometry — sometimes nothing was there. No Starlink constellation at the right position. No sunlit object that could account for what had been reported.
 
-The tool was precise enough to rule satellites out. That's what it was built to do — not just confirm explanations but test them. And some reports didn't confirm.
+The tool was precise enough to rule satellites out. That's what it was built to do, not just confirm explanations but test them. And some reports didn't confirm.
 
 We weren't the only ones running reports through the tool. I remember at least one other person working through a few themselves — testing the visualization against different sightings, getting familiar with what it could show. When a report came back without a satellite explanation, the response wasn't alarm. It wasn't excitement. It was closer to what any careful researcher feels at the edge of their methodology — a kind of professional acknowledgment that the data had taken us as far as it could.
 
@@ -98,13 +98,13 @@ Built into the visualization was a line of sight function — not something I ha
 
 It was designed to give the analyst agency. Not just to run reports through an automated filter but to interrogate individual cases by hand, to bring human judgment into contact with the data at the level of a single sighting. You could see what the pilot would have seen. You could test it yourself.
 
-I had sent screenshots of the visualization to people within the FAA. That was normal — the work was being shared, discussed, passed around in the way that work gets passed around when people find it useful. I didn't think too hard about where the screenshots were going. I was focused on the tool.
+I had sent screenshots of the visualization to people within the FAA. That was normal. The work was being shared, discussed, passed around in the way that work gets passed around when people find it useful. I didn't think too hard about where the screenshots were going. I was focused on the tool.
 
 A few weeks before March 2nd, Gary Miller — Director of ATO Security, AJR2 — made me aware that my screenshots had reached ODNI. The Office of the Director of National Intelligence sits at the top of the intelligence community. It oversees all seventeen federal intelligence agencies. It is where the most sensitive information about national security converges. My screenshots — built in my apartment, on my standing desk, with Python scripts I had written line by line over months — had landed there.
 
 I don't know who sent them. I don't know what was said about them. What I know is that the email made its way to me, and I saw his name on it.
 
-I went back to my standing desk after that. The apartment was quiet. The tool was running. Outside, the city moved the way it always did — oblivious, unhurried, unconcerned with what was happening in a Navy Yard apartment twenty minutes from the White House.
+I went back to my standing desk after that. The apartment was quiet. The tool was running. Outside, the city moved the way it always did, oblivious, unhurried, unconcerned with what was happening in a Navy Yard apartment twenty minutes from the White House.
 
 Two weeks later they made me transfer the code.
 
