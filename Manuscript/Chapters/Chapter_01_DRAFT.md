@@ -107,7 +107,7 @@ I stared at them for a moment. This is the part that's hardest to explain to som
 
 I hadn't been trained for any of this. That's the part that still sits with me. They built the whole apparatus — the alias, the documents, the routing, the reminders — and then they handed it to someone with no preparation and expected it to work. Why wouldn't they have trained me? That question doesn't have a flattering answer for the people who designed this.
 
-I tried to finish the audio settings on Webex. I couldn't get them to work. I gave up and left for the bank.
+I tried to finish the audio settings on Webex. I couldn't get them to work. I gave up.
 
 The shopping that followed was pre-sorted, calibrated to a new duty location. Riverside, California. I had applied for a cartographer position there in February — the USAJOBS posting had been selected earlier in the week. The ads knew this. Items appeared in sequence, organized the way you'd organize a relocation: clothing, equipment, a place to live. At some point a realtor appeared. Someone to help me find a place in Riverside. I don't remember if it was an ad or a link. I remember that it was there.
 
