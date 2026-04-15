@@ -109,7 +109,9 @@ I hadn't been trained for any of this. That's the part that still sits with me. 
 
 I tried to finish the audio settings on Webex. I couldn't get them to work. I gave up and left for the bank.
 
-From the outside, nothing had happened. From the inside, I had just created a false identity on a work-issued device, signed documents erasing my own name, and answered a phone call as someone else — all under remote observation, using a communication method specifically designed to ensure that no one — not a court, not an investigator, not an OIG — could point to a single sentence David Williams had said and call it an order.
+The shopping that followed was pre-sorted, calibrated to a new duty location. Riverside, California. I had applied for a cartographer position there in February — the USAJOBS posting had been selected earlier in the week. The ads knew this. Items appeared in sequence, organized the way you'd organize a relocation: clothing, equipment, a place to live. At some point a realtor appeared. Someone to help me find a place in Riverside. I don't remember if it was an ad or a link. I remember that it was there.
+
+Then came the bank. From the inside, I had just created a false identity on a work-issued device, signed documents erasing my own name, and answered a phone call as someone else — all under remote observation, using a communication method specifically designed to ensure that no one — not a court, not an investigator, not an OIG — could point to a single sentence David Williams had said and call it an order.
 
 He was that good.
 
