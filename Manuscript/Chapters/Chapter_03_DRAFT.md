@@ -12,11 +12,11 @@ Cover the period between the ODNI email and March 2nd. Establish the second proj
 ---
 
 ## Key Scenes / Beats
-- [ ] Jim Estes approaching Ryan about the second project
-- [ ] Being voluntold — the money, the eagerness, saying yes
-- [ ] Going into the Leidos office near Navy Yard
-- [ ] The financial dashboarding work — what little is remembered
-- [ ] The quiet before everything broke
+- [x] Jim Estes approaching Ryan about the second project
+- [x] Being voluntold — the money, the eagerness, saying yes
+- [x] Going into the Leidos office near Navy Yard
+- [x] The financial dashboarding work — what little is remembered
+- [x] The quiet before everything broke
 
 ---
 
@@ -40,25 +40,45 @@ I met David Williams in person for the first time.
 
 He was tall. The meeting was short. He laid out the project the way you lay out something that doesn't require much explaining: four financial dashboards, employee data, here's what we need. The kind of task description that's over before you've finished writing it down. I nodded. I was ready to work. If the project felt thin in that room I told myself that was fine. Thin projects had a way of expanding once you got into them.
 
-I walked out ready to prove myself.
-
 What I didn't know then — what I wouldn't understand until much later — was that the dashboarding project wasn't the project. It was the reason I was there. The cover for why a GIS developer with a SECRET clearance and a UAP visualization tool needed a laptop and a reason to be working late.
 
-The laptop came from Leidos. Standard issue, supposedly. Except when I opened it, it hadn't been cleared. The previous user's data was still on it. YouTube videos. Someone else's digital life sitting on a machine that had been handed to me as though it were clean. I noted it. It felt sketchy in a way I couldn't fully articulate — not alarm exactly, more like the low-grade unease of something that should have been routine not being routine. I called Leidos to have it wiped. Nobody treated this as unusual except me.
+The laptop came from Leidos. Standard issue, supposedly. Except when I opened it in a dim room on Virginia Avenue — the lights low in a way that felt deliberate, different from the bright open spaces I associated with normal Leidos environments — it hadn't been cleared. The previous user's data was still on it. YouTube videos. Browser history. Someone else's digital life sitting on a machine that had been handed to me as though it were clean. I noted it. It felt sketchy in a way I couldn't fully articulate — not alarm exactly, more like the low-grade unease of something that should have been routine not being routine. I called Leidos to have it wiped. Nobody treated this as unusual except me.
 
-I came in more than once during that period. Getting the laptop sorted. Getting set up. The kind of administrative friction that makes a new project feel like it's already behind before it starts. I went through the motions. I was ready to work.
+I came in more than once during that period. Getting the laptop sorted. Getting set up. New chargers. A YubiKey — a physical hardware security token used for two-factor authentication on sensitive systems. I noted that too, the way I had noted the uncleared laptop. Financial dashboards don't typically require that level of access infrastructure. I didn't say anything. I was new. I told myself there were things about government contracting I didn't fully understand yet.
 
 Carey Seery was my security officer, the person assigned to manage my clearance. She mentioned a former employee more than once. He had gambled away everything he had. Then he died of an overdose. I never knew why she kept telling me.
 
 I didn't ask. I filed it away the way you file away things that don't have an obvious place yet. I was focused on the work. I had dashboards to build, data to organize, a project to deliver.
 
-Except that's not what the laptop was used for.
+The two weeks between that first meeting and March 2nd are mostly gone now. Trauma does that — it doesn't erase evenly. It takes whole stretches and leaves you with fragments, impressions, the emotional residue of a period without the sequential memory to match.
+
+I remember David Williams being kind to me during that period. That's the thing about what came later that's hardest to hold — how warm he was in the weeks before it. He asked about my motorized scooter. He talked about his own struggles with weight, his work with a life coach, the kind of personal detail people share when they want you to feel like you know them. It worked. I felt seen. I felt like I had landed in the right orbit, that the people above me were paying attention in the good way, the way that meant opportunity.
+
+I didn't know yet that being seen and being watched are not the same thing.
+
+I was happy to be there. I want to say that clearly because it matters for everything that follows. I wasn't suspicious. I wasn't looking for exits. I was a contractor who had built something real, whose abstract had been accepted at the largest GIS conference in the world, who was now sitting in a dim room in a Capitol Hill office getting set up for a new project with senior people who knew his name.
+
+I was exactly where I had worked to be.
+
+I never built the dashboards.
+
+I want to be clear about that because it matters. The project that brought me into David Williams' orbit, that put a Leidos laptop in my hands, that gave me a reason to be in that conference room — I never got to it. Within two weeks, before I had written a single line of code, March 2nd happened. The project existed long enough to position me. Then it had served its purpose.
 
 The UAP visualization. The GitHub repository. The alias. That's what March 2nd looked like from the inside. And when I try to trace it back to where it started — not the day it broke open, but the day I walked into it — I keep coming back to that conference room. The large windows. The short meeting. David Williams telling me what the project was, casual and certain, the way someone describes something they already know the ending to.
 
-I didn't know the ending yet.
+When everything fell apart, I texted Jim Estes on the morning of March 7th.
 
-I walked out ready to prove myself, laptop under my arm, toward something I didn't have a name for.
+I am resigning. Due to an ethics related issue. And unfortunately I do not want to speak with you at this time.
+
+That was my documented statement, in writing, at the moment I still had enough clarity to make it. I knew what had happened. I knew what I was walking away from. I named it — an ethics issue — because that's what it was.
+
+By the end of that day I was no longer in a position to act on my own resignation. My family, not understanding what I was resigning from or why, made sure I kept the job. They thought they were helping.
+
+David Williams texted me on March 8th. He was still warm. Still there. By March 19th he had stopped responding entirely.
+
+The operator had exited cleanly. The record showed nothing.
+
+He was that good.
 
 ---
 

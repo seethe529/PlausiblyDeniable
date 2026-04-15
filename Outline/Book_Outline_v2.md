@@ -11,7 +11,7 @@
 
 - Chapter 1: The Offer — Who Ryan was, joining Leidos, the work, and March 2nd
 - Chapter 2: What I Saw — The UAP discovery, the tool, the ESRI abstract, ODNI
-- Chapter 3: The Second Project — Financial dashboarding for NISC, Jim Estes, going into the office, the month before everything broke
+- Chapter 3: The Second Project — Financial dashboarding for NISC, Jim Estes, David Williams, the YubiKey, the two weeks before March 2nd, the resignation text to Jim Estes on March 7th
 - Chapter 4: The Hospitalization — March 7th, five weeks, the laptop retrieval, coming out to find everything gone
 
 ---
