@@ -98,7 +98,9 @@ I sent a signed letter to HPSCI Members at the Capitol Visitor Center. I identif
 
 **Molly Peters / McKenzie Cliatt — Senator Bob Casey's Office**
 *February – July 2024*
-Senator Casey's office engaged more substantively than most. Peters assigned my case to a constituent advocate. Cliatt requested and received a signed Privacy Act Release Form. The office submitted my complaint to USAF contacts with a 30-business-day response window. The response they received was Matthew Bartlett's denial — which you have already read in the previous chapter.
+Senator Casey's office engaged more substantively than most. Peters assigned my case to a constituent advocate. Cliatt requested and received a signed Privacy Act Release Form. The office submitted my complaint to USAF contacts with a 30-business-day response window.
+
+The Air Force responded thirty days later. That response is the subject of the next chapter.
 
 **Representative Nancy Mace's Office**
 *November 2024*
