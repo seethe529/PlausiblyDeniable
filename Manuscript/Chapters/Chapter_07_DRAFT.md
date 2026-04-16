@@ -24,7 +24,7 @@ Establish the documented Air Force connection through the Benson email chain, th
 
 ---
 
-# Chapter 6: Benson and Bartlett
+# Chapter 7: Benson and Bartlett
 
 **Beat 1**
 
