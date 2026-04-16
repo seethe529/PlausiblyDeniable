@@ -66,7 +66,7 @@ I want to be clear about that because it matters. The project that brought me in
 
 The UAP visualization. The GitHub repository. The alias. That's what March 2nd looked like from the inside. And when I try to trace it back to where it started — not the day it broke open, but the day I walked into it — I keep coming back to that conference room. The large windows. The short meeting. David Williams telling me what the project was, casual and certain, the way someone describes something they already know the ending to.
 
-When everything fell apart, I texted Jim Estes on the morning of March 7th.
+On the morning of March 7th I texted Jim Estes.
 
 I am resigning. Due to an ethics related issue. And unfortunately I do not want to speak with you at this time.
 
@@ -77,8 +77,6 @@ By the end of that day I was no longer in a position to act on my own resignatio
 David Williams texted me on March 8th. He was still warm. Still there. By March 19th he had stopped responding entirely.
 
 The operator had exited cleanly. The record showed nothing.
-
-He was that good.
 
 ---
 
