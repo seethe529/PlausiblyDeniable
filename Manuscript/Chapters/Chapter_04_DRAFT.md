@@ -157,6 +157,14 @@ I lay in Horsham and didn't know any of this yet.
 
 I was just trying to remain a person.
 
+During that period I called Leidos HR. I spoke with a representative named Zoey. I don't remember everything that was said. What I remember is one sentence.
+
+"We don't want things to get messy."
+
+I know now what that meant. I didn't have the clarity to fully process it then. I was running on no sleep, on medications I didn't know, in a facility that had already decided what I was. But the sentence stayed with me. It stays with me now.
+
+The calls from that period are gone. I got a new phone number afterward. Another piece of the record that isn't there anymore.
+
 ---
 
 At some point they decided I could leave.

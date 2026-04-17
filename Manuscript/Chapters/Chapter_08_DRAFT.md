@@ -48,6 +48,10 @@ When Leidos's narrative arrived, the clinical language, the diagnosis, the insti
 
 I don't blame them for that. What I believe is that the people who constructed that narrative knew my background. They had access to my records. And if they knew what they were doing, and I believe they did, they knew exactly which fears to activate.
 
+My father called Leidos security directly. He was scared and looking for answers and he reached out to the institution that had employed me. They told him I was just one employee out of thousands. That was the framing they gave a worried father who had called looking for help understanding what had happened to his son. One employee. Out of thousands. The message underneath it was clear: your son is not important enough for any of this to be what he says it is.
+
+My father was trying to protect me. He didn't know he was being managed.
+
 But the cost of that is real. The waiting for me to become unstable again. The looks. The weight of being someone whose judgment is perpetually in question in the place where you should be safest. That cost is real and I am still paying it.
 
 And then there were my DC friends.
