@@ -135,6 +135,18 @@ Jim Estes emailed my personal Gmail. Asked how I was doing. Said he was proud of
 
 Proud of the work. Doctor's note through Sedgwick.
 
+On March 29th, Sedgwick completed a Provider Statement. The form checked "delusional ideations evident: Yes." It noted paranoid delusions under reasoning and judgment.
+
+The abstract was accepted on March 15th. I was delusional on March 29th. Both documents exist. Both were produced by people operating within the same institutional apparatus.
+
+By that point I had not slept properly in close to three weeks. Five days from March 2nd through admission. Seven more days at Brooke Glen where the medication was supposed to help and didn't. Then the accident. Then the 302. Then Horsham. Three weeks without real sleep, on medications I didn't know, after the most destabilizing sequence of events of my life.
+
+Three weeks without sleep will affect any person's state of mind. That is not a diagnosis. That is biology.
+
+Whatever state I was in when they evaluated me, the work existed before they got to me. The UAP data was real. The ODNI email was real. The abstract was accepted. All of it documented, all of it timestamped, all of it created by a person functioning at the highest level of his career.
+
+They broke me down. Then they used the breakdown as the explanation.
+
 And while I was in there, Leidos called my mother and asked her to ship the laptop back. Not to wait. To ship it.
 
 That laptop had everything on it. The alias account created under my name on March 2nd. The Cisco documents I had been directed to sign removing all record of Ryan C. Lingo from the relevant systems. The Webex account pushed remotely to the machine — the one I set up under a name pulled from an ad on my FAA homepage. The UAP visualization code, the Python scripts, the months of work that had no other copy once the FAA account was removed. My mother was trying to help. She didn't know what she was handing over.

@@ -42,6 +42,14 @@ The psychiatric hospitalization didn't just happen to me. It happened to my repu
 
 My family loves me. I want to say that clearly. What happened to them is the same thing that happened to my mother when she shipped the laptop. They were given a narrative by people with authority and they operated inside it in good faith. They were taken advantage of by the same system that took advantage of me. Even if they don't fully realize it yet.
 
+There is something else that needs to be said about why they were vulnerable to that narrative, and I want to say it carefully because it involves people I love.
+
+Someone close to me had struggled with serious mental illness for most of my life. I had watched what that looked like from the inside of a family. The hospitalizations. The particular fear that comes from loving someone whose grip on reality sometimes slips. My family knew what that looked like. They had a template.
+
+When Leidos's narrative arrived, the clinical language, the diagnosis, the institutional authority behind it, my family didn't just hear a doctor's assessment. They heard something that rhymed with their own history. They recognized the shape of it. And that recognition, however wrong it was in this case, made them vulnerable to exactly the story they were being handed.
+
+I don't blame them for that. What I believe is that the people who constructed that narrative knew my background. They had access to my records. And if they knew what they were doing, and I believe they did, they knew exactly which fears to activate.
+
 But the cost of that is real. The waiting for me to become unstable again. The looks. The weight of being someone whose judgment is perpetually in question in the place where you should be safest. That cost is real and I am still paying it.
 
 And then there were my DC friends.

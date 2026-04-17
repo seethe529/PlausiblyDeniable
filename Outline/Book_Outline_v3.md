@@ -18,7 +18,7 @@ The UAP discovery, the tool, the ESRI abstract, ODNI.
 *Winter 2022 – March 7, 2023*
 Williams, the dashboards that never were, the resignation text, hospitalization begins.
 
-## Chapter 4 — Inside *(to be written)*
+## Chapter 4 — Inside ✅
 *March 7 – April 12, 2023*
 The five weeks. The family conflict. The institution. Being processed by a system that had already decided what you were.
 
@@ -26,13 +26,13 @@ The five weeks. The family conflict. The institution. Being processed by a syste
 *Post-discharge through leaving the country*
 The harassment, the documentation, the outreach, enough.
 
-## Chapter 6 — The External Fight *(to be written)*
+## Chapter 6 — The External Fight ✅
 The full congressional and legal outreach track. Every named contact, every closed door.
 
-## Chapter 7 — Benson and Bartlett *(to be written)*
+## Chapter 7 — Benson and Bartlett ✅
 The Air Force connection established, then the denial. One contradiction.
 
-## Chapter 8 — The Cost *(to be written)*
+## Chapter 8 — The Cost ✅
 The personal interior. Journal entries, the trailer, the job search, the disability dimension.
 
 ---
