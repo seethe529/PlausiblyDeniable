@@ -26,8 +26,6 @@ Document what was taken. Not just the job or the clearance or the career traject
 
 # Chapter 8: The Cost
 
-**Beat 1**
-
 I want to try to describe what was lost. Not the job — that comes later. Not the clearance or the career trajectory or the financial stability, though all of those are real and documented and I will get to them. I want to start with something harder to quantify.
 
 I lost the person I was before any of this happened.
@@ -68,8 +66,6 @@ But first: the person who was there before, and the specific shape of his absenc
 
 ---
 
-**Beat 2**
-
 I remember lying in bed at 1pm when my brother called.
 
 I don't remember what he said. I remember the phone in my hand and the ceiling above me and the particular quality of that hour. Not morning anymore, not afternoon yet, just a blank space in the middle of the day that I had no reason to fill. The medication made everything slow and heavy. The days had no shape. I would surface around noon and lie there for another hour before anything required me to move.
@@ -89,8 +85,6 @@ I wrote in my journal during that period. I wrote affirmations because I needed 
 Some mornings it was enough.
 
 ---
-
-**Beat 3**
 
 The NGA sent me a HireVue invitation in June 2024.
 
@@ -119,8 +113,6 @@ But I grieved the door.
 There was one other thing I held onto during that period. In March 2024, a LinkedIn notification arrived in the alias inbox, the account I had been directed to create, the one that still existed, the one I hadn't deleted because I couldn't bring myself to. The profile was under the name Riley Gaines. Seventy-five views. I didn't create that profile. But I kept the notification. Because some part of me was still afraid of them and still wanted back in at the same time. That's the thing about an institution that destroys you. It doesn't stop feeling like home. The machine had taken everything from me and I still wanted to be inside it, still believed the work that had started under that name wasn't finished, still thought maybe I was the one who was supposed to finish it. That's what they don't account for when they dismantle a person. The part that keeps waiting for things to go back to normal. The part that sees an email from a name that isn't yours and thinks: *maybe it's not over yet.*
 
 ---
-
-**Beat 4**
 
 Leidos ended in August 2023. The same month I started an intensive outpatient program: structured daily therapy for people whose depression has made ordinary functioning impossible. That's what they left me with.
 
@@ -155,8 +147,6 @@ I don't know if it was intentional.
 I know what it felt like.
 
 ---
-
-**Beat 5**
 
 At some point staying stopped being a question.
 

@@ -26,8 +26,6 @@ Establish the documented Air Force connection through the Benson email chain, th
 
 # Chapter 7: Benson and Bartlett
 
-**Beat 1**
-
 By January 2024 my life had gotten very small.
 
 That's not a complaint — it's a description. After everything that had happened, small was what I could manage. I was working for my parents. Learning new systems. Helping design a website. I got to work around nine or nine-thirty. The work was quiet and ordinary and completely disconnected from anything that had a security clearance attached to it.
@@ -53,8 +51,6 @@ And the Air Force was writing back.
 Part of me — and I am being completely honest here — wanted to say yes.
 
 ---
-
-**Beat 2**
 
 The interview went well. I told them what I was good at. I described my aspirations — the tools I wanted to build, the problems I wanted to solve, the kind of work I had always believed I was meant to do. I expressed genuine thanks for their time. I meant it.
 
@@ -86,8 +82,6 @@ The ticket sat unused. Somewhere between wanting to go and understanding what go
 
 ---
 
-**Beat 3**
-
 On the morning of March 1st I emailed Dr. Benson and Captain Pearson.
 
 *Due to ongoing intimidation and threats against my life, I am no longer interested in pursuing these opportunities.*
@@ -118,8 +112,6 @@ The intimidation did not clear up.
 
 ---
 
-**Beat 4**
-
 I filed the SAF/IG complaint on June 1, 2024.
 
 It was comprehensive. Named subjects: Leidos, the FAA, the US Air Force, the US Space Force. Cited violations of the Whistleblower Protection Act, the ADA, the Privacy Act, OSHA. Documented the incident period from March 2, 2023 through June 4, 2024. Fifteen months of documented events organized into a formal complaint submitted to the Secretary of the Air Force Inspector General Hotline.
@@ -147,8 +139,6 @@ I stopped pushing on that door.
 I went to Congress instead.
 
 ---
-
-**Beat 5**
 
 Senator Casey's office had done everything correctly.
 
