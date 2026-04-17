@@ -1,58 +1,50 @@
-# Book Project — Working Title: TBD
+# Plausibly Deniable
 
-**Author:** Ryan Lingo  
-**Genre:** Memoir / Investigative Narrative  
-**Audience:** General Public  
-**Status:** In Development
-
----
-
-## Title
-**Working Title:** *Plausibly Deniable*
-
-### Other Options (keep for consideration)
-- *Make of That What You Will* — conversational, knowing, slightly dark
-- *Something in the Data* — mysterious, works for GIS and UAP thread
-- *Twenty Minutes from the White House* — specific, ironic, vivid
-- *Proximity* — single word, geographic/power angle
-- *Above Clearance* — double meaning: clearance level and operating above the system
-- *Need to Know* — classic intelligence phrase turned on its head
-- *No Traceable Order* — haunting, precise, from the Williams scene
-- *The Contractor* — simple, ominous
-- *Cleared* — double meaning: security clearance and the fight to be believed
+**Author:** Ryan Lingo
+**Genre:** Memoir / Investigative Narrative
+**Status:** First Draft In Progress
 
 ---
 
-## Central Themes
-- Systemic retaliation against government/contractor whistleblowers
-- Accountability gaps in UAP/national security programs
-- Corruption and civil rights violations within defense contracting (Leidos)
-- The human cost of speaking truth to power
+## About This Book
+
+*Plausibly Deniable* is the true account of Ryan Charles Lingo — a credentialed geographer and GIS software developer who, while working as a contractor for the Federal Aviation Administration under Leidos Inc., developed a UAP monitoring and visualization prototype that reached the Office of the Director of National Intelligence.
+
+What followed was a coordinated campaign of retaliation, institutional manipulation, and psychological targeting designed to silence him and discredit his disclosures. Every channel he turned to — federal agencies, congressional offices, attorneys, international bodies — closed its door.
+
+This book names the names. It shows the documents. It tells the story in full.
 
 ---
 
-## Directory Structure
+## Themes
 
-```
-Book/
-├── Manuscript/
-│   └── Chapters/        ← Chapter drafts (.md or .docx)
-├── Outline/             ← Book structure, chapter outlines
-├── Research/
-│   ├── Source_Summaries/ ← Summaries of key documents
-│   ├── Key_People/       ← Profiles of people in the story
-│   └── Institutions/     ← Leidos, HPSCI, AARO, Air Force OIG, etc.
-├── Notes/               ← Raw notes, ideas, voice memos transcribed
-└── Media_Assets/        ← Photos, supporting images for the book
-```
+- Whistleblower retaliation within the defense contracting apparatus
+- UAP research and the national security landscape
+- Cognitive warfare and plausibly deniable intimidation
+- The human cost of institutional silence
+- The documented contradiction between what the Air Force told a U.S. Senator and what the evidence proves
 
 ---
 
-## Key Source Documents (in parent folder)
-- `FINAL_RCL_Case Narrative and Legal Claims Against Leidos Inc.pdf`
-- `Lingo_Master_Evidence_Timeline_v3.docx` (in Documentary/)
-- `BrianFitzpatrick_SenatorCasey_Correspondence` — congressional record
-- `HPSCI_Fitzpatrick_20240307` — HPSCI submissions
-- `SAF_OIGComplaint` — Air Force OIG filings
-- `23-F-0946` — David Grusch DOPSR connection
-- `GWU_Evaluation_15-12-2025.pdf` — Medical/PTSD documentation
+## Structure
+
+Eight chapters. No epilogue yet.
+
+- **Chapter 1 — The Offer** — The job, the mission, the alias day
+- **Chapter 2 — What I Saw** — The UAP discovery, the tool, the ESRI abstract, ODNI
+- **Chapter 3 — The Second Project** — The setup, the dashboards that never were, the resignation
+- **Chapter 4 — Inside** — Five weeks. The institution. The breakdown they created and then used against him
+- **Chapter 5 — The Noise** — The harassment campaign, the documentation, the fight to stay sane
+- **Chapter 6 — The External Fight** — Every institution, every congressional office, every attorney. Named. Dated.
+- **Chapter 7 — Benson and Bartlett** — The Air Force connection established, then denied. One contradiction.
+- **Chapter 8 — The Cost** — What was taken. The person who was there before, and the specific shape of his absence.
+
+---
+
+## Repository
+
+This repository contains the manuscript and outline only. All drafts are written in Markdown. Work in progress is committed to the `drafts` branch and merged to `main` at milestones.
+
+---
+
+*This is a public record. The work is real. The documents exist.*
