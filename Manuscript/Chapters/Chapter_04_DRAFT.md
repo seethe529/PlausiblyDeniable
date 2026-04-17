@@ -123,6 +123,8 @@ I want to be careful about why. It wasn't that I thought he was wrong about ever
 
 So I watched the ceiling instead.
 
+I found out later that the social worker assigned to my case had a father who worked for the NSA. She didn't believe me either.
+
 Outside, things were happening that I didn't know about yet.
 
 My abstract had been accepted. ESRI had notified Matthew Thompson on March 15th — eight days after Brooke Glen, while I was still inside. Thompson forwarded it to Jim Estes and called it really cool work. A confirmation was sitting somewhere in an inbox, waiting for me to accept the presentation slot. July. Thousands of people. The work I had built alone in my apartment in Navy Yard.
