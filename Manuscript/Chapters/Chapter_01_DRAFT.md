@@ -139,6 +139,8 @@ Geography had found me through a specific pull toward remote sensing and satelli
 
 I still believe I was right about that. I just couldn't have predicted the shape of it.
 
+Before Leidos I had been a federal employee — a Geographer for the United States Census Bureau, based in Washington. I was not new to this world. I had already been inside it.
+
 That skill is what got me the job at Leidos.
 
 The offer came through an unusual channel. My ex-partner was a contractor at FBI headquarters in Washington, working for Deloitte on a federal contract. He asked around, put my name and background in front of the right people, and I was told to apply. That's how it works in this world. Credentials matter, but so does who knows you exist. And in a city built on contracts layered beneath contracts, the people who know you exist are often contractors too.

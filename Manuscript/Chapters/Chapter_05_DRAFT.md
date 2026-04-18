@@ -91,6 +91,8 @@ On Instagram, videos of Boeing whistleblowers appeared in my feed. Repeatedly. M
 
 On LinkedIn, promoted job listings appeared. Boeing. Johns Hopkins Applied Physics Laboratory. Institutions with deep roots in defense, aerospace, intelligence contracting. A reminder of the world I had come from and what happened to people who talked about it.
 
+I was applying for federal and federal contracting roles simultaneously. On LinkedIn and Indeed I was being served bat biologist and boat captain as top picks. For months the platforms pushed recommendations that had nothing to do with my background and everything to do with keeping me away from the work I was qualified for. I had a Master's degree. I had been a Geographer for the United States Census Bureau. I had held a SECRET clearance. The algorithm had filed me somewhere else entirely.
+
 Then there was the video. "They're gonna execute the mother." Rendered in block letters over footage of a burning landscape. Delivered through the same feed that showed me home décor and travel content and the ordinary noise of other people's lives. Just sitting there. Waiting.
 
 I saved it.
