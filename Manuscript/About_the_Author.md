@@ -1,6 +1,6 @@
 # About the Author
 
-Ryan Charles Lingo, M.A. is a geographer, GIS developer, and former federal contractor who worked within the Federal Aviation Administration's Operations Security Strategic Initiatives Team under Leidos Inc. He holds a Master of Arts in Geography and Environmental Planning from Towson University and has conducted research in partnership with NASA's DEVELOP National Program and the NOAA World Data Center for Paleoclimatology. He held a SECRET-level security clearance.
+Ryan Charles Lingo, M.A. is a geographer, GIS developer, and former federal employee and contractor who worked within the Federal Aviation Administration's Operations Security Strategic Initiatives Team under Leidos Inc. Prior to his work at the FAA, he served as a Geographer with the United States Census Bureau in Washington, D.C. He holds a Master of Arts in Geography and Environmental Planning from Towson University and has conducted research in partnership with NASA's DEVELOP National Program and the NOAA World Data Center for Paleoclimatology. He held a SECRET-level security clearance.
 
 While working as a GIS Software Developer embedded within the FAA, Lingo developed a UAP monitoring and visualization prototype in response to statistically significant increases in UAP reports to the Air Traffic Control System Command Center. His research abstract, *Comparing Reports of Unidentified Aerial Phenomena to Starlink Satellite Orbits*, was accepted for presentation at the 2023 ESRI User Conference. His work reached the Office of the Director of National Intelligence.
 
