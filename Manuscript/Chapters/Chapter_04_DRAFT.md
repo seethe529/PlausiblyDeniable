@@ -129,7 +129,13 @@ Outside, things were happening that I didn't know about yet.
 
 My abstract had been accepted. ESRI had notified Matthew Thompson on March 15th — eight days after Brooke Glen, while I was still inside. Thompson forwarded it to Jim Estes and called it really cool work. A confirmation was sitting somewhere in an inbox, waiting for me to accept the presentation slot. July. Thousands of people. The work I had built alone in my apartment in Navy Yard.
 
-I couldn't accept it. I didn't know it existed.
+I couldn't accept it. I didn't know it existed. My FAA account had been removed while I was incapacitated. My Leidos access was gone. There was no inbox I could reach, no system I could log into, no way to respond to a confirmation that was sitting somewhere waiting for me. The window closed while I was in no position to open it.
+
+That was not an accident. I was hospitalized on March 7th. The abstract was accepted on March 15th. The notification went to Matthew Thompson and Jim Estes — not to me. By the time I was out, the path to that stage had been closed from the other end.
+
+In a different version of this story, I would have been on that stage in San Diego with my two colleagues, in front of thousands of people, showing work that had taken months to build and that no one had built before. That was the version I had been working toward.
+
+The presentation slot expired. The work existed. They made sure I never got to show it.
 
 Jim Estes emailed my personal Gmail. Asked how I was doing. Said he was proud of the UAP visualization work. Mentioned HR would need a doctor's note through Sedgwick.
 
