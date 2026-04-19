@@ -6,16 +6,12 @@
 
 ---
 
-## Chapter Goal
-Document every institutional contact, congressional office, and legal firm Ryan approached between March 2023 and 2026. Name them. Give dates. Show the pattern of closed doors. Establish that the failure was not his — it was systemic.
-
----
-
 ## Key Scenes / Beats
 - [x] Opening — the version of this story that blames him, and why it's wrong
 - [x] Part One — Federal agencies and officials
 - [x] Part Two — Congressional offices
 - [x] Part Three — Legal contacts
+- [x] Part Four — The press
 - [x] Closing — what the list proves
 
 ---
@@ -30,7 +26,7 @@ There is a version of this story in which I am the person who didn't try hard en
 
 I want to address that version directly, and then I want to put it to rest.
 
-What follows is a list. Not a metaphor. Not a characterization. A documented record of every institution, every official, every congressional office, and every attorney I contacted between March 2023 and 2026 in an attempt to find someone — anyone — willing to look at what had been done to me and say: *this matters, and we will do something about it.*
+What follows is a list. Not a metaphor. Not a characterization. A documented record of every institution, every official, every congressional office, every attorney, and every newsroom I contacted between March 2023 and 2026 in an attempt to find someone — anyone — willing to look at what had been done to me and say: *this matters, and we will do something about it.*
 
 I am going to name them. I am going to give you their titles and their dates. I am going to tell you what they said and what they didn't do.
 
@@ -112,12 +108,6 @@ I sent the HPSCI letter and a message to the Oversight Democrats Signal line. I 
 
 That second message received a thumbs up reaction.
 
-I want to be precise about what that means and what it doesn't mean. It wasn't a commitment. It wasn't an investigation. It wasn't a staffer sitting across from me asking for the full evidentiary package. It was one emoji, from an anonymous number, on an encrypted messaging app, at 8:13 in the morning.
-
-But of every congressional contact in this chapter — every office, every letter, every email sent and ignored — that thumbs up is the only direct human acknowledgment I received from anyone on Capitol Hill. One reaction. From someone who saw it and registered it.
-
-That was enough to keep going. I followed up again on March 23rd with an updated brief.
-
 **Brennen Gelinas — Rep. Anna Paulina Luna's Office / UAP Task Force**
 *March 23, 2026*
 After calling Rep. Luna's DC office I emailed Brennen Gelinas, staff member on the Task Force on the Declassification of Federal Secrets. I attached the congressional brief, the Benson email chain, and the Bartlett denial letter. I offered to brief the Task Force in any format at any time. Rep. Luna chairs the Task Force, which held hearings on UAP transparency and whistleblower protection in September 2025. No substantive response was documented at time of writing.
@@ -188,11 +178,33 @@ Three contacts. Three years. The same firm. The same result.
 
 ---
 
+## Part Four — The Press
+
+I also tried the press.
+
+Not as a last resort. As a parallel channel. The same way I was filing complaints while reaching attorneys, I was reaching journalists. The formal record and the public record are different things. I wanted both.
+
+**CNN**
+*June 6, 2024*
+I sent a tip via Proton Mail. I described the March 2023 coercive events, the alias account, the ESRI abstract, the retaliation. I wrote: *"If there is somebody at CNN who does care, maybe forward this to that person."* I noted that the Washington Post and the New York Times had not responded to prior outreach. No response was documented from CNN.
+
+**NBC News**
+*July 2, 2025*
+I submitted a formal tip to NBC News investigative teams identifying myself as a former Leidos contractor whose UAP visualization work had been shared with ODNI. I described the coercive directives, the alias accounts, the psychiatric targeting, and the retaliation. NBC News Customer Care confirmed receipt and said they would forward it for review. No journalist followed up.
+
+**The Intercept, ProPublica, The Washington Post, The Guardian, CBC**
+*July 2025*
+I BCC'd five investigative outlets on my urgent appeal to the UN Office of the High Commissioner for Human Rights. The same story. The same documents. Five newsrooms. No response was documented from any of them.
+
+The press, like the institutions, like the attorneys, received the information and returned the silence.
+
+---
+
 That is the list.
 
-Federal agencies. Congressional offices. Attorneys. Every door I knocked on between March 2023 and 2026. Every name, every title, every date, every polite declination and bureaucratic non-answer and carefully worded acknowledgment that amounted to nothing.
+Federal agencies. Congressional offices. Attorneys. Newsrooms. Every door I knocked on between March 2023 and 2026. Every name, every title, every date, every polite declination and bureaucratic non-answer and carefully worded acknowledgment that amounted to nothing.
 
-*Not without merit. Worthy and deserving. Deepest sympathies.*
+*Not without merit. Worthy and deserving. Deepest sympathies. We will forward your message for review.*
 
 The words were always kind. The doors were always closed.
 
@@ -230,4 +242,7 @@ This book is a knock.
 - Cross-reference: `GAP_Response_2026.pdf` — GAP second declination April 2026
 - Cross-reference: `KatsBank2026.pdf` — Katz Banks Kumin third contact April 2026
 - Cross-reference: `Bochetto___Lentz__P_C__Contact_Form.pdf` — Bochetto & Lentz August 2023
+- Cross-reference: `MediaOutreach_UAP_RLingo.pdf` — CNN tip June 2024, Washington Post / NYT prior outreach
+- Cross-reference: `NBC_UAP_Update.pdf` — NBC News tip July 2025
+- Note: The Intercept, ProPublica, The Guardian, CBC BCC'd on UN appeal July 2025
 - Note: Summer Lee contact unconfirmed — add if documentation found
