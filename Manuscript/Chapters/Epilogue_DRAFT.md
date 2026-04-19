@@ -43,7 +43,7 @@ I didn't have a plan. What I had was the understanding, somewhere below the exha
 
 ---
 
-By the time I found the apartment in Princeton I had a job with the State of New Jersey and a life that had some stability to it again. Not what I had before March 2023, not Navy Yard and a SECRET clearance and a presentation slot at the largest GIS conference in the world. But a real apartment, split with my boyfriend, in a place I actually liked. That mattered more than I expected it to.
+By the time I found stable ground again I had a job and a life that had some shape to it. Not what I had before March 2023, not Navy Yard and a SECRET clearance and a presentation slot at the largest GIS conference in the world. But a real apartment, split with my boyfriend, in a place I actually liked. That mattered more than I expected it to.
 
 I started over with the timeline.
 
