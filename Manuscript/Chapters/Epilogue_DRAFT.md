@@ -11,7 +11,7 @@
 - [x] Beat 2 — The brief
 - [x] Beat 3 — Luna's task force
 - [x] Beat 4 — Where things stand
-- [ ] Beat 5 — The call *(placeholder — to be written)*
+- [x] Beat 5 — The call
 
 ---
 
@@ -21,51 +21,67 @@
 
 # Epilogue: Still Fighting
 
-I went straight to my boyfriend's apartment.
+I drove home alone.
 
-When I got there I told him everything — the room, the two officers, being walked out to my car. He had been telling me in the days before not to be disappointed. I had known going in that it might not work. I went anyway, because at that point going anyway was the only thing I knew how to do. That's what three years of closed doors does to a person. It doesn't make you stop. It just makes you go in already knowing the shape of what's coming.
+The binder was in the backseat. A hundred and twenty pages of everything I had documented, organized and printed and carried across that border because I was not going in empty-handed. Now it was just weight in a car moving south, back into the country that had done this to me, past the CBP officer who had been sympathetic in the way people are sympathetic when there is nothing they are required to do.
 
-I didn't have a plan yet. What I had was the understanding, quiet and settled somewhere below the exhaustion, that I was not done. That whatever the border had taken from me — the hope of a clean exit, the possibility of telling this story from somewhere else — it had not taken the fight. The fight was still there. It had nowhere else to go.
+We said goodbye in a parking lot on the American side.
+
+We were both crying. We both knew there was a chance I wouldn't come back, that I would walk through that border and the next chapter of this story would be told from somewhere else. We didn't say that out loud exactly. But the weight of it was real, and we stood there in it for a moment before I had to go.
+
+I crossed alone.
+
+The drive back took a long time, or felt that way. Just highway and the particular silence of a person replaying everything that had happened in a room they couldn't go back to. The male officer's voice. The White House letter he held up and called boilerplate. The female officer who could see it, who looked at my outline and knew I was telling the truth, and still couldn't do anything about it. I had told them I would rather sit in a detention center for months than return to the United States. I had meant it. They walked me out to my car anyway.
+
+I thought about what I was driving back to. No job. I had resigned from XTS six days before the crossing because I was not going to ask a new country for protection while still employed by one connected to the apparatus I was fleeing. My parents had made clear they needed me to find work before I could come back home. So there was no apartment, no income, no institutional footing of any kind. Just the binder in the backseat and the road that kept going south.
+
+When I got to his apartment I told him everything. The room. The two officers. Being walked to my car. Driving down the wrong lane when I pulled away, the guards yelling, correcting course. The CBP officer on the American side who said they had no problem with me coming back, sympathetic in the way people are when there is nothing they are required to do.
+
+He was there. That's what I remember most clearly about that night. Not what was said. Just that he was there, and that after everything, the border, the drive, the road that felt like it had no end, that was the one thing still standing.
+
+I didn't have a plan. What I had was the understanding, somewhere below the exhaustion, that I was not done. Whatever the crossing had taken, it had not taken the fight. I had no job, no apartment, no channel left untried. The fight had nowhere else to go but forward.
 
 ---
 
+By the time I found the apartment in Princeton I had a job with the State of New Jersey and a life that had some stability to it again. Not what I had before March 2023, not Navy Yard and a SECRET clearance and a presentation slot at the largest GIS conference in the world. But a real apartment, split with my boyfriend, in a place I actually liked. That mattered more than I expected it to.
+
 I started over with the timeline.
 
-I had stopped using ChatGPT after the company signed its agreement with the Department of Defense. That felt like a line I wasn't willing to cross — handing my documentation to a tool that had just formalized its relationship with the same apparatus I was trying to hold accountable. I moved to Claude. And I started from the beginning.
+I had no formal training in any of what the previous three years had required of me. No legal background, no experience writing to senators or filing IG complaints or drafting correspondence that had to hold up against institutional scrutiny. I had learned all of it by doing it, under pressure, in real time. What I had was the geographer's instinct, the data person's reflex. You lay everything out in sequence. You look for where things don't line up. If the pattern is there, the record will show it.
 
-Starting over with a new AI is not a simple thing. It wasn't just re-entering dates and names. It was re-explaining the entire narrative from scratch, and doing it to something that wouldn't engage seriously until I produced the actual documents to back up what I was saying. The receipts. The proof. Every claim met with the same friction I had encountered everywhere else — not hostility exactly, just the requirement that I earn credibility before the conversation could move forward. I had spent three years doing that with institutions. Now I was doing it with a tool.
+So I rebuilt the timeline from scratch. Every document, every date, every closed door laid out in order. I shared the details the way I had always worked, methodically, one entry at a time, sharing the source documents as I went. The job interview with Dr. Benson. The eleven messages. The offer of consideration for two positions. Captain Pearson's response about the Air Force Office of Special Investigations.
 
-I was methodical about it in the way I had always been methodical — the geographer's instinct, the data person's reflex. Weeks of rebuilding. Every document, every date, every closed door laid out in sequence. If the pattern was there, the record would show it. If someone had lied, the documents would contradict each other. You just had to lay them out in the right order and look.
+Then the Bartlett letter.
 
-That's when I found it.
+One sentence. August 2024. A GS-15 Deputy Director telling Senator Casey that SAF/IGQ had reviewed the database and found no connection between Ryan Lingo and the United States Air Force.
 
-I hadn't thought much about the SAF/IGQ letter before. It was one more closed door in a hallway full of them. Matthew Bartlett, GS-15, Deputy Director of Complaints Resolution, had written to Senator Casey in August 2024 stating that SAF/IGQ had reviewed the IG database and found no connection between Ryan Lingo and the US Air Force regarding employment. One sentence. Formal. Final.
+I had just entered the eleven emails from @us.af.mil addresses.
 
-But I had the emails.
+Both things were sitting in the same document. The recruitment and the denial. The Air Force that had contacted me, interviewed me, praised my background, offered me positions, and the Air Force official who told a sitting United States Senator it had never happened.
 
-Eleven messages. Dr. Jennifer Benson, GS-14, Chief Space Scientist, 2nd Weather Squadron, 557th Weather Wing, Offutt Air Force Base. She had contacted me. She had interviewed me. She had told me they were impressed with my background. She had offered me consideration for two positions and confirmed my existing SECRET clearance. Captain Benjamin Pearson had offered to connect me with the Air Force Office of Special Investigations regarding the threats I had reported.
+That was the crack. The first one in three years that went all the way through.
 
-That was the Air Force. That was a documented, timestamped, eleven-message email chain with the United States Air Force.
+I was not emotional about it. What I felt was closer to the satisfaction of a data set that has finally resolved. I had known the contradiction existed. Now I had it organized, documented, and visible on a page in a way that anyone could read in thirty seconds. I sent it to lawyers. I sent it to Congress. I built the brief around it.
 
-And a GS-15 official had told a sitting United States Senator it didn't exist.
-
-I was elated. For the first time in a long time something had cracked open — a break in the seams. The military had been very good at dismantling a civilian's life, but they had not been perfect. I wanted to tell everyone. I told my boyfriend. I told select members of my family, carefully, because this is still an area that makes most people uncomfortable, that produces a particular kind of cringe even in people who love you. I sent it to lawyers. I sent it to Congress.
-
-It was the week of March 2nd. It always is. The anniversary of everything that started on that morning in 2023 doesn't get darker with each passing year — if anything the memories become less jarring over time. But the rage doesn't go away. The need for justice doesn't go away. Every year when that week comes around something in me resets. It was time to fight again. Time to get someone to finally fix what they broke.
-
-I built the brief around that contradiction. One page. Two columns. The denial on one side, the emails on the other. Designed to be read in thirty seconds by someone who had seen a hundred of these and needed to understand immediately why this one was different. I wasn't filing another complaint. I wasn't asking for another review. I was presenting a documented false statement to a U.S. Senator and asking someone with authority to look at it.
+The geographer had found the anomaly. Now someone with authority needed to look at it.
 
 ---
 
 I called Representative Luna's office in March 2026.
 
-I expected a voicemail. That's the honest answer — after everything, after every call and every form and every letter that had disappeared into the silence, I had learned to expect nothing. I kept the call short. I had practiced being succinct because I had learned that the window, when it opened at all, was narrow. I got my point across in the time I had.
+I expected a voicemail. After everything, after every call and every form and every letter that had disappeared into the silence, I had learned to expect nothing. I kept it short. I had learned that the window, when it opened at all, was narrow, and I had practiced being succinct because of that.
 
-The staffer gave me his email. He said he would get it to the proper task force.
+Brennen Gelinas answered.
 
-I sent the brief that day. The 2nd Weather Squadron emails. The SAF/IGQ denial. The contradiction, documented, organized, ready to be read. I also called Representative Jasmine Crockett's office. That staffer directed me to the House Oversight Committee's Signal account, which I had used before. I sent it there too.
+I got my point across in the time I had. He gave me his email. He said he would get it to the proper task force.
 
-For a moment — a real one, not wishful thinking, something more grounded than that — it felt like something might move. Rep. Luna chairs the House Oversight Committee's Task Force on the Declassification of Federal Secrets. She had held hearings on UAP transparency. Her staff had taken my call. Someone had given me a name and an email address and said the words *I'll get this to the right people.*
+It was later in the day when I hung up, after work, the sun going down. I had one thing to do and I needed to do it before anything could interrupt it. Three years of watching documents disappear, accounts get deleted, evidence get removed while I was in no position to stop it. I was not going to let this brief sit in a draft folder overnight. I sent it that evening. The 2nd Weather Squadron emails. The SAF/IGQ denial. The contradiction, documented, organized, two columns, readable in thirty seconds.
+
+Then I called Representative Jasmine Crockett's office. That staffer directed me to the House Oversight Committee's whistleblower tipline. I sent it there too.
+
+Rep. Luna chairs the House Oversight Committee's Task Force on the Declassification of Federal Secrets. She had held hearings on UAP transparency. Her staff had taken my call. Brennen Gelinas had given me his email and said the words I'll get this to the right people.
+
+For a moment, a real one, it felt like something might move.
 
 I held onto that for a while.
 
@@ -75,24 +91,40 @@ Nothing has happened.
 
 No response to the email. No response to the follow-up. The brief went in and the silence came back, the same silence that has answered every channel I have tried since March 2023. The OIGs. The White House. The FAA. The SAF/IG. The OSC. The FBI. The DOT. Senator Casey. Representative Fitzpatrick. Representative Mace. The Government Accountability Project. The UN. Canada.
 
-I am still reaching lawyers. Still trying to find someone who will look at what I have and see what I see — not a person in distress, not a case too complicated to take on, but a documented false statement to a United States Senator, a paper trail that contradicts itself at the highest levels, and a man who has spent three years building the record that proves it.
+The attorneys are their own category. Bochetto and Lentz. Phillips and Cohen. Katz Banks Kumin, twice. Eric Siegel Law. Skeen Law Offices. Lundy Law. Relman Colfax. Several of them said the same thing in different words: our decision is not a reflection on the merits of your case. Phillips and Cohen wrote that a successful action could not be ruled out. GAP wrote that my claims were not unimportant and not without merit. Then they all referred me to NELA and wished me luck.
 
-The record exists. The documents exist. I am still here.
+I am still looking.
 
-That is not nothing. On the days when it feels like nothing, I remind myself that it is not. I have a Master's degree and a SECRET clearance and a geographer's understanding of what it means when the data doesn't lie. I have journal entries written the night before they hospitalized me. I have the emails. I have the denial. I have the contradiction, preserved and documented and now printed in a book that cannot be retrieved, cannot be shipped back, cannot be removed while I am incapacitated.
+That is where things stand. Not resolved, not abandoned. The record exists. The documents exist. I have a Master's degree and a SECRET clearance and a geographer's understanding of what it means when the data doesn't lie. I have the Benson emails and the Bartlett denial and the contradiction sitting between them that no one has been able to explain away, because it cannot be explained away. I have journal entries written the night before they hospitalized me. I have a book that cannot be retrieved, cannot be shipped back, cannot be removed while I am incapacitated.
 
-They took a great deal from me. They did not take this.
+They took a great deal from me. The record was not among it.
 
 ---
 
-*[Beat 5 — The call: to be written. Addressed to the general public and to anyone with the standing to act — the reader who feels the need to step in, to stand up, to do something with what they have just read.]*
+If you are reading this, you are part of the record now.
+
+That is not a small thing. Every person who finishes this book and understands what happened is one more person the silence cannot reach. They built the silence carefully. They counted on it. They counted on closed doors and institutional indifference and the particular exhaustion that sets in when a person has tried every channel available to them and been turned away at every one. They counted on me running out of road.
+
+I have not run out of road.
+
+To whoever is reading this with the standing to act, a journalist, a congressional staffer, an attorney, someone who knows someone who knows someone: the documents are real. The contradiction is documented. A GS-14 Air Force scientist recruited me in eleven emails from official Air Force addresses. A GS-15 Pentagon official told a United States Senator in writing that no such connection existed. Both of those things cannot be true. One of them is a documented false statement to a sitting member of Congress. That is where the investigation begins, if someone is willing to begin it.
+
+To the whistleblowers reading this: I see you. Whatever they are doing to you, whatever version of this you are living through right now, I believe you. The pattern is real. The targeting is real. The institutional indifference is real and it is not an accident. You are not imagining it and you are not alone. Build the record. Name the names. Keep going.
+
+To Leidos, to the FAA, to the United States Air Force, to everyone who was in that room on March 2nd and everyone who was complicit in what followed: the record exists. It has been preserved, documented, printed, and placed into the hands of the public. There is a community of people now who know what happened. Justice has a way of arriving on its own timeline, and the people who seek it on my behalf will not stop. Neither will I.
+
+I still have hope. That is the most defiant thing I can tell you. After three years of closed doors and silence and institutions that looked at the evidence and found reasons not to act, I am still here, still fighting, still certain that the truth documented in these pages will find the people with the power to do something about it.
+
+The record exists.
+
+Find it. Share it. Do something with it.
 
 ---
 
 ## Notes
-- Beat 5 placeholder — Ryan to provide direction on final paragraph when ready
 - Cross-reference: `Congressional_Brief_UAP_Whistleblower_RCL.pdf` — March 2026
 - Cross-reference: `UAP_Whistleblower_Documentary_EvidenceofFalseStatementtoSenatorCasey.pdf` — March 23, 2026
 - Cross-reference: `Canada_Asylum_09152025.pdf` — IMM 1282 form, September 15, 2025
 - Cross-reference: `IT_Specialist_WeatherSquadron.pdf` — 2nd Weather Squadron email chain
 - Cross-reference: `SAF_IGQ_Response_LINGO__2__AUG_24.pdf` — Bartlett denial to Senator Casey
+- Cross-reference: `XTS_Resignation__RyanLingo.pdf` — XTS resignation September 9, 2025
