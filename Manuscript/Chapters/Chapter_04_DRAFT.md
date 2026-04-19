@@ -95,6 +95,16 @@ I didn't tell my mother about the screen. There was no version of that sentence 
 
 I went back.
 
+During that period I called Leidos. More than once. I have a text from Zoey confirming she received one of my voicemails. I was not calling to ask for help. I was calling to put them on notice — that I intended to pursue arbitration, that I was not going to let this go quietly.
+
+At some point during those communications she said it.
+
+"We don't want things to get messy."
+
+I know what that meant. An institution that had just watched one of its contractors get hospitalized was telling him that pursuing accountability would be inconvenient for them. Dressed up as HR language. Delivered to a person who had just gotten out of a psychiatric facility.
+
+The calls from that period are mostly gone. I got a new phone number afterward. The text from Zoey is what remains.
+
 The following day the accident happened.
 
 I will not put the details on this page. What I'll tell you is that by that point I had not slept properly in nearly two weeks — five days from March 2nd through admission, seven more days at Brooke Glen where the medication was supposed to help and didn't, not really, not in any way that felt like actual rest. They had taken me off the medications I knew and put me on ones I didn't. The ground under every thought had been shifting for two weeks straight. I was not the same person who had driven to Dunkin' Donuts on the morning of March 2nd and ordered a medium coffee, half-decaf, half-regular, and thought the day was going to be ordinary.
@@ -162,14 +172,6 @@ By the time I came out the laptop was gone. The FAA account was gone. The Git re
 I lay in Horsham and didn't know any of this yet.
 
 I was just trying to remain a person.
-
-During that period I called Leidos HR. I spoke with a representative named Zoey. I don't remember everything that was said. What I remember is one sentence.
-
-"We don't want things to get messy."
-
-I know now what that meant. I didn't have the clarity to fully process it then. I was running on no sleep, on medications I didn't know, in a facility that had already decided what I was. But the sentence stayed with me. It stays with me now.
-
-The calls from that period are gone. I got a new phone number afterward. Another piece of the record that isn't there anymore.
 
 ---
 
