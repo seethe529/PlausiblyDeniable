@@ -181,7 +181,7 @@ That's how it works. There is no ceremony, no resolution, no moment where someon
 
 I walked out.
 
-I didn't know yet about the laptop. I didn't know about the FAA account or the Git repository or the confirmation email sitting unanswered in someone's inbox. I didn't know what had been taken while I was in no position to stop it.
+I didn't know yet the full shape of what had been taken while I was in no position to stop it.
 
 I would find out.
 
