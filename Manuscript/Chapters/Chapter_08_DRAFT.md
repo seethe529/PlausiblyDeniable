@@ -168,11 +168,23 @@ On September 15, 2025, I presented myself at the Canadian border and requested a
 
 I cried for most of it. I'm not sure for how long exactly. Twenty minutes, maybe more. I told them what had happened in so many words — that whistleblowers were being tormented, that I had documentation, that I had tried every channel available to me inside the United States and every one of them had failed. They searched my car. They found the binder. A hundred and twenty pages of everything I had documented about the digital environment, the platforms, the ecosystem, organized and printed and carried across that border in my hands because I was not going in empty-handed.
 
-They told me asylum was impossible. That if I stayed I would be held in an immigration detention center for months while my case was processed. The officer did not allow me to sign the withdrawal form himself. He sent me back.
+There was a room. A male officer and a female officer. The female came in at some point holding one of my outlines — a document they had taken from my backpack during the search. I was still crying. Her face when she looked at it was not the face of someone who thought I was making things up. She could see it. Whatever she saw in those pages, she knew I was telling the truth.
 
-I drove home alone. Back across the border with the binder in the backseat and the form somewhere in the car and the particular silence of a person who has just run out of road.
+The male officer was unmoved.
 
-That is what the end of a threshold looks like from the inside. Not a dramatic break. Not a moment of clarity or resolve. Just a form in your hand, and a border behind you, and the slow understanding that you are going to have to find another way.
+He told me there had only been a handful of successful asylum cases from the United States — one of them, he said, involved a man on death row. He told me I would be placed in an immigration detention center for months while my case was processed. He told me I was better off returning to the country that had done this to me. And then he picked up one of my documents — a White House response — and told me it was just boilerplate. That it wasn't a direct communication from the president. That it didn't count.
+
+I explained everything. The timeline, the complaints, the congressional outreach, the reason that letter existed and what it had taken to get it. I knew within about ten minutes that it wasn't going to matter. They were more of the same. Another room, another set of officers, another institution looking at the record I had built and finding a reason not to act on it.
+
+They didn't let me sign anything. They walked me out to my car.
+
+I got in and drove down the wrong lane. They yelled at me. I corrected course and pulled up to US Customs and Border Protection on the American side. The officer there asked me what had happened. I told him. He was sympathetic. He said they had no problem with me coming back.
+
+That was the welcome home.
+
+I drove home alone. Back across the border with the binder in the backseat and the particular silence of a person who has just run out of road.
+
+That is what the end of a threshold looks like from the inside. Not a dramatic break. Not a moment of clarity or resolve. Just a border behind you, and the slow understanding that you are going to have to find another way.
 
 I'm still looking.
 
