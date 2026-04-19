@@ -45,7 +45,7 @@ It didn't make it hurt less.
 
 Before I could do anything else I had to get my access back.
 
-My FAA account had been removed while I was incapacitated. My PIV card — the physical hardware token required to access federal systems — was no longer valid. I coordinated with Michael Peluso, an Aviation Safety Assistant at the Allentown FSDO, and physically traveled to the FAA office with my government laptop to have it restored. The emails documenting that process exist. June 2023. A month and a half after I had walked out of Horsham.
+My FAA account had been removed while I was incapacitated. My PIV card — the physical hardware token required to access federal systems — was no longer valid. I coordinated with an Aviation Safety Assistant at the Allentown FSDO, and physically traveled to the FAA office with my government laptop to have it restored. The emails documenting that process exist. June 2023. A month and a half after I had walked out of Horsham.
 
 That is what returning to work looked like. Not a welcome back. Not an acknowledgment of what had happened. A trip to a federal office to prove I was still authorized to do the job I had been doing before they took everything.
 
