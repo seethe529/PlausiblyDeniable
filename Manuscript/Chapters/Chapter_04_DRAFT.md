@@ -27,6 +27,8 @@ The five weeks. Being processed by a system that had already decided what you we
 
 # Chapter 4: Inside
 
+I was admitted to Brooke Glen Behavioral Health on March 7th, 2023. By that point the sequence of events since March 2nd had made that outcome feel inevitable to everyone around me.
+
 The clothes were the first thing.
 
 Everyone on the unit was wearing them — soft, drawstring-less, nothing with edges or weight or anything that could be repurposed. The architecture of the outfit said the same thing the building said, which was: *we know what people do when they're alone with certain objects, and we have thought about it more than you have.* I registered this the way I had been registering everything for weeks, which was to say immediately and without being able to do anything about it.
@@ -101,7 +103,7 @@ At some point during those communications she said it.
 
 "We don't want things to get messy."
 
-I know what that meant. An institution that had just watched one of its contractors get hospitalized was telling him that pursuing accountability would be inconvenient for them. Dressed up as HR language. Delivered to a person who had just gotten out of a psychiatric facility.
+I know what that meant. An institution that had just watched one of its contractors get hospitalized, lose his access and lose his evidence was telling him that pursuing accountability would be inconvenient for them. Dressed up as HR language. Delivered to a person who had just gotten out of a psychiatric facility.
 
 The calls from that period are mostly gone. I got a new phone number afterward. The text from Zoey is what remains.
 
@@ -163,9 +165,9 @@ Whatever state I was in when they evaluated me, the work existed before they got
 
 They broke me down. Then they used the breakdown as the explanation.
 
-And while I was in there, Leidos called my mother and asked her to ship the laptop back. Not to wait. To ship it.
+And while I was in there, Leidos contacted my mother and directed her to ship the laptop back to the company. I was hospitalized. I could not refuse. She didn't know what she was handing over.
 
-That laptop had everything on it. The alias account created under my name on March 2nd. The Cisco documents I had been directed to sign removing all record of Ryan C. Lingo from the relevant systems. The Webex account pushed remotely to the machine — the one I set up under a name pulled from an ad on my FAA homepage. The UAP visualization code, the Python scripts, the months of work that had no other copy once the FAA account was removed. My mother was trying to help. She didn't know what she was handing over.
+That laptop had everything on it. The alias account created under my name on March 2nd. The Cisco documents I had been directed to sign removing all record of Ryan C. Lingo from the relevant systems. The Webex account pushed remotely to the machine — the one I set up under a name delivered through plausibly deniable directives. The UAP visualization code. The Python scripts. The months of work that Leidos made sure to recover before I could.
 
 By the time I came out the laptop was gone. The FAA account was gone. The Git repository was gone. Both sides of the evidence, client and server, removed while I was in no position to stop any of it.
 
