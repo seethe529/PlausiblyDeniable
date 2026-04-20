@@ -155,7 +155,9 @@ My assignment was with the Federal Aviation Administration, within the Operation
 
 I worked across multiple projects. I built and maintained geospatial tools. I translated complex spatial datasets into something operationally useful for people who didn't think in coordinates and projections. My supervisor, Matthew Thompson, was supportive. My colleagues were competent. The mission felt real: keeping the national airspace safe, building tools that helped people understand what was happening in the sky.
 
-I was good at it. That's not arrogance — it's relevant. Because one of the things you need to understand about what happened next is that I wasn't a peripheral figure. I wasn't someone who stumbled onto something by accident. I was embedded, trusted, and doing work that people relied on.
+I was good at it. That's not arrogance. It's relevant. Because one of the things you need to understand about what happened next is that I wasn't a peripheral figure. I wasn't someone who stumbled onto something by accident. I was embedded, trusted, and doing work that people relied on.
+
+What I didn't fully appreciate at the time was where the FAA sat in the broader national security architecture. The FAA isn't just a civilian agency managing flight paths. Its airspace data - what's moving, where, at what altitude, with what transponder signature - is shared with and monitored by defense and intelligence entities whose names don't appear on the agency's public website. The security operations team I worked within existed precisely at that intersection. I was a geographer who had been placed, whether I fully understood it or not, at a point where civilian aviation infrastructure met the intelligence community.
 
 I signed my SF-312 — the Classified Information Nondisclosure Agreement, prescribed by the Office of the Director of National Intelligence — on April 26, 2022. I initialed eight provisions. I understood what I was agreeing to.
 

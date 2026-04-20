@@ -100,7 +100,7 @@ It was designed to give the analyst agency. Not just to run reports through an a
 
 I had sent screenshots of the visualization to people within the FAA. That was normal. The work was being shared, discussed, passed around in the way that work gets passed around when people find it useful. I didn't think too hard about where the screenshots were going. I was focused on the tool.
 
-A few weeks before March 2nd, Gary Miller — Director of ATO Security, AJR2 — made me aware that my screenshots had reached ODNI. The Office of the Director of National Intelligence sits at the top of the intelligence community. It oversees all seventeen federal intelligence agencies. It is where the most sensitive information about national security converges. My screenshots — built in my apartment, on my standing desk, with Python scripts I had written line by line over months — had landed there.
+A few weeks before March 2nd, Gary Miller, Director of ATO Security, AJR2, made me aware that my screenshots had reached ODNI. The Office of the Director of National Intelligence is not a place that receives routine contractor work. It sits above the CIA, the NSA, the DIA, and fourteen other federal intelligence agencies - the apex of the entire apparatus. For a Python script built at a standing desk in a Navy Yard apartment to land there meant someone, somewhere above my clearance level, had decided it was worth passing up.
 
 I don't know who sent them. I don't know what was said about them. What I know is that the email made its way to me, and I saw his name on it.
 
