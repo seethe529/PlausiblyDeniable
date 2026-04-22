@@ -63,6 +63,8 @@ By 10:00am an ad appeared on my government laptop: a Microsoft Surface 9 tablet.
 
 A few minutes later my personal phone buzzed. A text from CVS. A prescription was ready for pickup. It was the muscle relaxer I had canceled the day before. I hadn't ordered a refill. I hadn't asked for one. I picked it up on the way back from an errand. I didn't think about it too hard. That is the honest answer. I would think about it later. I would think about it very hard.
 
+Two instructions through two devices before 10am. I noted it the way you note things when you don't yet have a word for what you're seeing.
+
 By noon I was in the NED Business Development meeting.
 
 David Williams managed NISC, the contract my team worked under. He ran the monthly meetings, and that contractual authority meant he sat at the top of the chain that governed my day-to-day work. He was calm, measured, the kind of person who made competence look effortless. I trusted him completely.

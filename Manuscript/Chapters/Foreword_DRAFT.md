@@ -27,6 +27,8 @@ I want to say something about the phrase *plausibly deniable*, because it is the
 
 It is not a metaphor I invented. It is a term of art, intelligence tradecraft, the specific architecture of operations designed so that each individual element can be explained away while the aggregate cannot. The mechanism depends on this: that reasonable people, presented with any single piece of the picture, will reach for the most ordinary explanation available. And reasonable people almost always do.
 
+Documents disclosed by NSA contractor Edward Snowden revealed that British and American intelligence agencies developed explicit programs for discrediting, disrupting, and psychologically destabilizing targets through digital means. The techniques were named, documented, and trained. They were not theoretical.
+
 Most people have seen this without knowing what to call it.
 
 Think about the employee who raises an uncomfortable concern at work. Files a complaint, pushes back on something they shouldn't have, becomes inconvenient to the wrong person. They can't be fired for it. That would be retaliation, and retaliation leaves a paper trail, and a paper trail is liability. So something quieter happens instead. They start getting left off meeting invites. Their projects migrate to someone else without explanation. A performance review surfaces concerns that were never raised in three years of positive feedback. Their access gets quietly downgraded. Their emails stop getting responses.
