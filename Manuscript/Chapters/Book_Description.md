@@ -7,7 +7,7 @@
 Plausibly Deniable
 by Ryan Charles Lingo
 
-A federal contractor discovers something in classified airspace data that reaches the Office of the Director of National Intelligence. Before he can present his findings, he is hospitalized. His laptop is retrieved by his own mother while he is incapacitated. His accounts are deleted. His evidence disappears from both sides simultaneously.
+A federal contractor discovers something in classified airspace data that reaches the Office of the Director of National Intelligence. Before he can present his findings, he is hospitalized. Leidos contacts his mother while he is incapacitated and directs her to ship his work laptop back to the company. His accounts are deleted. His evidence disappears from both sides simultaneously.
 
 Every event in this book is documented. Every document is named.
 
@@ -15,7 +15,7 @@ Ryan Charles Lingo held a SECRET security clearance and built UAP monitoring too
 
 He documented all of it anyway.
 
-He filed complaints with nine federal agencies. He contacted the White House, the FBI, the House Intelligence Committee, a U.S. Senator, and the United Nations. Nine law firms reviewed his case. Five major newsrooms received his evidence. He attempted asylum in Canada.
+He filed complaints with nine federal agencies. He contacted the White House, the FBI, the House Intelligence Committee, a U.S. Senator, and the United Nations. Nine law firms reviewed his case. Six major newsrooms received his evidence. He attempted asylum in Canada.
 
 Every door closed.
 

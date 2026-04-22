@@ -125,7 +125,7 @@ When I arrived I wasn't sure who I was supposed to be. Ryan Lingo or Riley Gaine
 
 I took the metro home.
 
-I wrote all of this down on March 6th because I was trying to hold onto it. The next morning, I was hospitalized. I was in and out of facilities for five weeks. While I was there, Leidos contacted my mother and directed her to ship my work laptop back to the company. The laptop contained my UAP research, the alias account, the code repository — everything. I was in no position to stop it. The official language across all of it was psychiatric. I'd describe it differently — as what happens when a person's entire reality is systematically undermined, the evidence is removed while they cannot act, and no one believes them.
+I wrote all of this down on March 6th because I was trying to hold onto it. The next morning, I was hospitalized. I was in and out of facilities for five weeks. While I was there, Leidos contacted my mother and directed her to ship my Leidos-issued laptop back to the company. The laptop contained my UAP research, the alias account, the code repository — everything. I was in no position to stop it. The official language across all of it was psychiatric. I'd describe it differently — as what happens when a person's entire reality is systematically undermined, the evidence is removed while they cannot act, and no one believes them.
 
 ---
 
