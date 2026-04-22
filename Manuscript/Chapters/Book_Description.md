@@ -15,7 +15,7 @@ Ryan Charles Lingo held a SECRET security clearance and built UAP monitoring too
 
 He documented all of it anyway.
 
-He filed complaints with nine federal agencies. He contacted the White House, the FBI, the House Intelligence Committee, a U.S. Senator, and the United Nations. Nine law firms reviewed his case. Six major newsrooms received his evidence. He attempted asylum in Canada.
+He filed complaints with nine federal agencies. He contacted the White House, the FBI, the House Intelligence Committee, a U.S. Senator, and the United Nations. Nine law firms reviewed his case. More than a dozen newsrooms received his evidence. He attempted asylum in Canada.
 
 Every door closed.
 
