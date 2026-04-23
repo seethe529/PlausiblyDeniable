@@ -75,9 +75,9 @@ That was supposed to be me.
 
 Not him specifically — I didn't know him, not really. But the shape of it. The pills. The timing. The system that was supposed to be keeping you safe being the same system that handed you the means. I had poured my pills down the drain at midnight. I had read the sentence. And now I was watching the sentence play out on someone else's body and I was supposed to have no context for it.
 
-I had context.
+I had context. I didn't sleep that night either.
 
-I didn't sleep that night either.
+They discharged me from Brooke Glen after seven days.
 
 ---
 
