@@ -57,7 +57,7 @@ I don't remember exactly when I first noticed it — but at some point I was scr
 
 Compliance. Hostage. Break You Hard. Gag Order.
 
-I want to be precise about this because I know how it sounds. A song is a song. An algorithm is an algorithm. I am aware of both of those things. I was also a person who had spent months building a tool specifically designed to distinguish between coincidence and pattern, to draw a line between two points and ask whether the geometry held.
+I want to be precise about this because I know how it sounds. A song is a song. An algorithm is an algorithm. I was also a person who had spent months building a tool specifically designed to distinguish between coincidence and pattern, to draw a line between two points and ask whether the geometry held.
 
 The geometry held.
 
