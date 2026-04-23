@@ -101,6 +101,10 @@ I was applying for federal and federal contracting roles simultaneously. On Link
 
 Then there was the video. "They're gonna execute the mother." Rendered in block letters over footage of a burning landscape. Delivered through the same feed that showed me home décor and travel content and the ordinary noise of other people's lives. Just sitting there. Waiting.
 
+There was a virtual appointment with my doctor that summer. I was sitting in my parents' basement, on the call, trying to explain what had been happening — the content, the pattern, the daily intimidation. Directly across from me, on the smart TV, two movie advertisements cycled on a loop. Role Play. And a second title with the word Death in it. Rotating. While I talked.
+
+I was telling a doctor I was being targeted. The TV was making the point for them.
+
 I saved it.
 
 I saved all of it, because I had learned by then that the only thing standing between me and complete institutional erasure was the record I was building myself. No one was going to build it for me. The OIGs had closed their doors. The lawyers were still deciding. Congress was listening but slowly, the way institutions listen when they're not sure yet what they're looking at.
