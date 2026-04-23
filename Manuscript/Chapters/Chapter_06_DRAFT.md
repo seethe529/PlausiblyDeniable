@@ -124,6 +124,12 @@ I sent the HPSCI letter and a message to the Oversight Democrats Signal line. I 
 
 That second message received a thumbs up reaction.
 
+**Representative Summer Lee's Office — Task Force on the Declassification of Federal Secrets**
+*March 21, 2026*
+I emailed Representative Lee's press office directly, identifying her as a member of the Task Force on the Declassification of Federal Secrets. I sent the same congressional brief and the same evidence. I wrote that I respectfully asked her to review the attached brief and consider referring the matter to the Task Force for further examination.
+
+No response was documented.
+
 **Brennen Gelinas — Rep. Anna Paulina Luna's Office / UAP Task Force**
 *March 23, 2026*
 After calling Rep. Luna's DC office I emailed Brennen Gelinas, staff member on the Task Force on the Declassification of Federal Secrets. I attached the congressional brief, the Benson email chain, and the Bartlett denial letter. I offered to brief the Task Force in any format at any time. Rep. Luna chairs the Task Force, which held hearings on UAP transparency and whistleblower protection in September 2025. No substantive response was documented at time of writing.
@@ -281,4 +287,3 @@ This book is a knock.
 - Cross-reference: `MediaOutreach_UAP_RLingo.pdf` — CNN tip June 2024, Washington Post / NYT prior outreach
 - Cross-reference: `NBC_UAP_Update.pdf` — NBC News tip July 2025
 - Note: The Intercept, ProPublica, The Guardian, CBC BCC'd on UN appeal July 2025
-- Note: Summer Lee contact unconfirmed — add if documentation found
