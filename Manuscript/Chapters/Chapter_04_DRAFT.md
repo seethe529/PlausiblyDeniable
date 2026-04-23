@@ -169,7 +169,7 @@ And while I was in there, Leidos contacted my mother and directed her to ship th
 
 That laptop had everything on it. The alias account created under my name on March 2nd. The Cisco documents I had been directed to sign removing all record of Ryan C. Lingo from the relevant systems. The Webex account pushed remotely to the machine — the one I set up under a name delivered through plausibly deniable directives. The UAP visualization code. The Python scripts. The months of work that Leidos made sure to recover before I could.
 
-By the time I came out the laptop was gone. The FAA account was gone. The Git repository was gone. Both sides of the evidence, client and server, removed while I was in no position to stop any of it.
+By the time I came out the laptop was gone. The Git repository was gone. Both sides of the evidence, client and server, removed while I was in no position to stop any of it. There were two laptops. They took the Leidos machine. The FAA laptop stayed. They knew which one they needed.
 
 I lay in Horsham and didn't know any of this yet.
 

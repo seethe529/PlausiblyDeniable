@@ -53,7 +53,7 @@ That is what returning to work looked like. Not a welcome back. Not an acknowled
 
 The phone was still mine. That was one thing they hadn't taken.
 
-I don't remember exactly when I first noticed it — but at some point I was scrolling and something stopped me. A song title. Then another. Then the algorithm serving me an album I hadn't searched for, an artist I hadn't played, a title that sat in my chest like a word spoken directly to me.
+I don't remember exactly when I first noticed it — but at some point I was scrolling and something stopped me. A song title. Then another. Then the algorithm serving me an album I hadn't searched for, an artist I hadn't played, a title that sat in my chest like a word spoken directly to me. This was the same period I was filing complaints with federal agencies, reaching congressional offices, and looking for attorneys. The content arrived alongside all of it.
 
 Compliance. Hostage. Break You Hard. Gag Order.
 
@@ -127,13 +127,17 @@ The formal channels were not shifting.
 
 So I tried to show them what was happening in the only way I had left. They had been sending me content for months — that's what I need you to understand before I tell you what I did next. This wasn't my language. It was theirs. Kesha's *Gag Order* — the album cover, a woman with a plastic bag over her head — had appeared in my feed. Pushed to me. A top pick. My initials in the corner.
 
-I sent it to a congressman.
+I showed it to a congressional staffer. In person. A staffer I had just briefed on my UAP work and what had been done to me by the FAA, Leidos, and the United States Air Force.
 
 Not as a stunt. Not as a metaphor. As evidence. As a way of saying: this is what is appearing on my phone. This is what they are sending me. A woman suffocating. A gag order. Do you see what I am trying to tell you?
 
 They didn't see it.
 
 What I got back was the particular silence that offices are very good at, the kind that isn't refusal exactly, just the absence of acknowledgment. The kind that leaves you holding the thing you tried to hand someone, alone again with it.
+
+I got in my car after. The first song that came on was Nicki Minaj's Gag City Deluxe. I documented it and sent it to the same office.
+
+The silence came back.
 
 I had wishful thinking. I know that now. But I also know that wishful thinking, in the absence of any other viable option, is not weakness. It's endurance. It's the decision to keep trying even when the evidence suggests you shouldn't.
 
