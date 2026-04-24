@@ -173,7 +173,7 @@ I believed in the machine.
 
 That belief is important to understand, because everything that comes after — every complaint filed, every door closed, every night I spent wondering if I was losing my mind — has to be measured against how completely I trusted the system before it turned on me.
 
-I wasn't a dissident. I wasn't looking for a fight. I was a geographer, trying to do good work.
+I wasn't a dissident. I wasn't looking for a fight. I was a geographer, trying to do good work. In January 2023, six weeks before March 2nd, I submitted a Schedule A letter to the FAA People with Disabilities Program — a federal hiring pathway for persons with neurodevelopmental disabilities. I submitted a similar application to the United States Space Force. I was trying to move from contractor to federal employee through every legitimate pathway available to me. I was not someone on the margins of the federal workforce. I was someone trying to move deeper into it.
 
 And then, in the summer of 2022, I noticed something in the data.
 
