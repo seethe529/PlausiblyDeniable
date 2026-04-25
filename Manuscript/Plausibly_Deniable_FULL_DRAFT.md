@@ -792,7 +792,22 @@ I contacted the committee directly. No substantive response was received.
 
 **Ryan Oister, Senior Advocate — Rep. Brian Fitzpatrick's Office**
 *March 5, 2024*
-I met with Oister in person at the Langhorne district office. I presented my case. He followed up. He forwarded the DOT OIG's declination letter. He offered to follow up with the Air Force OIG on June 25th. I wrote to him: *"Silence seems to be the key in my situation."* No substantive outcome resulted.
+
+I met with Ryan Oister in person at the Langhorne district office. He was kind. He was genuinely interested in UAP disclosure — he mentioned David Grusch, knew the landscape, understood the broader context better than most people I had spoken to. He gave me an hour.
+
+I was terrified.
+
+I sat across from him and tried to explain what had been done to me and I couldn't get it out in any order that made sense. The problem wasn't the time. I told him it felt like an ethical assassination attempt. I said it twice. I showed him my challenge coin. I told him I was afraid of going to jail for saying the wrong thing. I told him I couldn't share details about the technology. I told him they had used my disability against me. I told him about the music, the medications, the bank, the GitHub repository. I told him there were people at my workplace who had died and that it was made to look like overdoses.
+
+He listened. He took notes. He said it was a safe space. He asked if I had a written description I could send him. He needed more details.
+
+Towards the end of the conversation he said he hoped they didn't get a tail on him. He laughed when he said it.
+
+I signed the waiver. I said I would send the written description. I walked out knowing I hadn't said what I needed to say, and that I probably never could have — not in that room, not on that day, not to someone who had never been inside what I was trying to describe.
+
+I sent the written description anyway. He followed up. He forwarded the DOT OIG's declination letter. He offered to follow up with the Air Force OIG on June 25th.
+
+No substantive outcome resulted.
 
 **HPSCI — House Permanent Select Committee on Intelligence**
 *March 7, 2024*
