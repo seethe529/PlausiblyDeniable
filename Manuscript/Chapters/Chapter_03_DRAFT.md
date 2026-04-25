@@ -46,13 +46,29 @@ I already had a government-issued laptop for my FAA work. The UAP visualization,
 
 I came in more than once during that period. Getting the laptop sorted. Getting set up. New chargers. A YubiKey — a physical hardware security token used for two-factor authentication on sensitive systems. I noted that too, the way I had noted the uncleared laptop. Financial dashboards don't typically require that level of access infrastructure. I didn't say anything. I was new. I told myself there were things about government contracting I didn't fully understand yet.
 
-Carey Seery was my security officer, the person assigned to manage my clearance. She mentioned a former employee more than once. He had gambled away everything he had. Then he died of an overdose. I never knew why she kept telling me.
+Carey Seery was my security officer, the person assigned to manage my clearance. Her official title was Contract Support, Security Representative, Lead. Her job was to know things about the people she was responsible for. I understood that later. At the time she just seemed like someone who liked to talk.
 
-I didn't ask. I filed it away the way you file away things that don't have an obvious place yet. I was focused on the work. I had dashboards to build, data to organize, a project to deliver.
+We would sit together at the end of the day sometimes, the kind of loose, winding conversations that happen when the formal work is done and the office has gone quiet. She overshared the way some people do when they're comfortable — gossip, personal detail, the texture of her life outside the building. She told me about her home, contractors she was having trouble with, the ordinary frustrations of owning a place and managing the people you've hired to fix it.
+
+More than once, across those months, she asked if I wanted to move in. She had space available. She brought it up the way you bring up something you've decided is a reasonable idea — not once as an offhand comment, but repeatedly, in different conversations, at different moments. I never understood why she kept pushing it. I never said yes. But every time she mentioned it something in me registered it as strange, the way you register things that don't have an obvious place yet.
+
+She also told me about a former employee. More than once. He had gambled away everything he had. Then he died of an overdose. She never told me his name. She never explained why she kept telling me. I didn't ask. I filed it away with the home invitation, in the same unmarked folder.
+
+Looking back, it felt like a warning. I still can't tell you exactly what she was warning me about. I don't know if she knew what was coming or whether she was simply a person who had seen enough of this world to understand that some situations have predictable endings. What I know is that it never sat right with me. And I know that after everything happened — after March 2nd, after all of it — she never reached out.
+
+The last email I received from her read:
+
+*Ryan, Good afternoon! I understand you resigned from the company. There are de-briefing forms that are required to be completed that I have attached to this email. If you could please complete them and return them to me at your earliest convenience I can get them processed. Thank you and good luck in your future endeavors!*
+
+Debriefing forms. Future endeavors. That was the sum of it.
 
 The two weeks between that first meeting and March 2nd are mostly gone now. Trauma does that — it doesn't erase evenly. It takes whole stretches and leaves you with fragments, impressions, the emotional residue of a period without the sequential memory to match.
 
-I remember David Williams being kind to me during that period. That's the thing about what came later that's hardest to hold — how warm he was in the weeks before it. He asked about my motorized scooter. He talked about his own struggles with weight, his work with a life coach, the kind of personal detail people share when they want you to feel like you know them. It worked. I felt seen. I felt like I had landed in the right orbit, that the people above me were paying attention in the good way, the way that meant opportunity.
+I remember David Williams being kind to me during that period. That's the thing about what came later that's hardest to hold — how warm he was in the weeks before it. He asked about my motorized scooter. I had asked him where I could charge it. He didn't send me to facilities or tell me to submit a request. He walked me to a room himself and showed me where to plug it in. He told me about walking barefoot in the grass. Something about grounding, the body connecting to the earth. There was an Instagram trend around it at the time. He mentioned it the way people mention things they've adopted recently, with the slight self-consciousness of someone who has decided to believe in something new. He talked about his own struggles with weight, his work with a life coach. The kind of personal detail people share when they want you to feel like you know them. I listened. I asked questions. That's what I do with people. I try to hear them, understand who they are through what they choose to share. What David Williams chose to share, consistently, was warmth. It worked. I felt seen.
+
+Underneath all of it things moved faster than they should have. There was an urgency I couldn't name at the time. A project that had barely been explained was already in motion. I told myself that was just how government contracting worked. Hurry up and wait, then suddenly hurry again.
+
+I was wrong about what the hurry was for.
 
 I didn't know yet that being seen and being watched are not the same thing.
 
