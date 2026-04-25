@@ -55,9 +55,9 @@ Alarm at 5:10am. Drove to Dunkin' Donuts and 7-Eleven. Nicorette gum, medium cof
 
 By 7:30 I was at my desk.
 
-The first thing I did that morning was move my UAP visualization script into a new GitHub account. The repository was named glass-violin. This wasn't my idea. The direction came the same way the rest of that day's instructions would come — through implication, through prompts, through the kind of operational guidance that leaves no fingerprints. I understood what was being asked. I did it.
+The first thing I did that morning was move my Unidentified Aerial Phenomena (UAP) visualization script into a new GitHub account. The repository was named glass-violin. This wasn't my idea. The direction came the same way the rest of that day's instructions would come — through implication, through prompts, through the kind of operational guidance that leaves no fingerprints. I understood what was being asked. I did it.
 
-The work I had spent months building — a prototype developed in response to statistically significant increases in UAP reports to the ATSCC, the tool that had earned an accepted abstract at the national ESRI conference — was now sitting in an account called glass-violin, separated from my name, waiting.
+The work I had spent months building — a prototype developed in response to statistically significant increases in UAP reports to the Air Traffic Control System Command Center (ATSCC), the tool that had earned an accepted abstract at the national ESRI conference — was now sitting in an account called glass-violin, separated from my name, waiting.
 
 By 10:00am an ad appeared on my government laptop: a Microsoft Surface 9 tablet.
 
@@ -65,9 +65,9 @@ A few minutes later my personal phone buzzed. A text from CVS. A prescription wa
 
 Two instructions through two devices before 10am. I noted it the way you note things when you don't yet have a word for what you're seeing.
 
-By noon I was in the NED Business Development meeting.
+By noon I was in an internal business development meeting.
 
-David Williams managed NISC, the contract my team worked under. He ran the monthly meetings, and that contractual authority meant he sat at the top of the chain that governed my day-to-day work. He was calm, measured, the kind of person who made competence look effortless. I trusted him completely.
+David Williams managed the National Airspace System Integration Support Contract (NISC), the contract my team worked under. He ran the monthly meetings, and that contractual authority meant he sat at the top of the chain that governed my day-to-day work. He was calm, measured, the kind of person who made competence look effortless. I trusted him completely.
 
 I would later come to understand, in the way you understand things only after they've happened to you, that he was very good at being trusted. His LinkedIn profile now lists his title at Leidos as Risk and Opportunity Lead. He received that promotion after everything I'm about to describe.
 
@@ -113,7 +113,7 @@ I tried to finish the audio settings on Webex. I couldn't get them to work. I ga
 
 The shopping that followed was pre-sorted, calibrated to a new duty location. Riverside, California. I had applied for a cartographer position there in February — the USAJOBS posting had been selected earlier in the week. The ads knew this. Items appeared in sequence, organized the way you'd organize a relocation: clothing, equipment, a place to live. At some point a realtor appeared. Someone to help me find a place in Riverside. I don't remember if it was an ad or a link. I remember that it was there.
 
-From the outside, nothing had happened. From the inside, I had just created a false identity on a work-issued device, signed documents erasing my own name, and answered a phone call as someone else — all under remote observation, using a communication method specifically designed to ensure that no one — not a court, not an investigator, not an OIG — could point to a single sentence David Williams had said and call it an order.
+From the outside, nothing had happened. From the inside, I had just created a false identity on a work-issued device, signed documents erasing my own name, and answered a phone call as someone else — all under remote observation, using a communication method specifically designed to ensure that no one — not a court, not an investigator, not an Office of Inspector General (OIG) — could point to a single sentence David Williams had said and call it an order.
 
 He was that good.
 
@@ -153,7 +153,7 @@ Leidos is one of the largest defense contractors in the United States. Billions 
 
 I trusted that.
 
-My assignment was with the Federal Aviation Administration, within the Operations Security Strategic Initiatives Team — AJR-223, Automation Support. My role wasn't simply to write code and move on. I was brought in as a subject matter expert on internal geography applications — the person the team came to when they needed to understand how spatial data worked, how it should be structured, what it could and couldn't tell you. That distinction matters. An SME isn't just executing someone else's vision. You're shaping how the organization understands its own information.
+My assignment was with the Federal Aviation Administration, within the Operations Security Strategic Initiatives Team — AJR-223, Automation Support. My role wasn't simply to write code and move on. I was brought in as a subject matter expert (SME) on internal geography applications — the person the team came to when they needed to understand how spatial data worked, how it should be structured, what it could and couldn't tell you. That distinction matters. An SME isn't just executing someone else's vision. You're shaping how the organization understands its own information.
 
 I worked across multiple projects. I built and maintained geospatial tools. I translated complex spatial datasets into something operationally useful for people who didn't think in coordinates and projections. My supervisor, Matthew Thompson, was supportive. My colleagues were competent. The mission felt real: keeping the national airspace safe, building tools that helped people understand what was happening in the sky.
 
@@ -163,7 +163,7 @@ What I didn't fully appreciate at the time was where the FAA sat in the broader 
 
 I signed my SF-312 — the Classified Information Nondisclosure Agreement, prescribed by the Office of the Director of National Intelligence — on April 26, 2022. I initialed eight provisions. I understood what I was agreeing to.
 
-What I didn't know then was that my work was also being shared with ODNI directly. That behind the FAA contract, there were other eyes on what I was building. I wouldn't learn that until much later — until I was trying to explain to a congressional staffer why a GIS developer from Pennsylvania had ended up at the center of something that reached into the highest levels of the national security apparatus.
+What I didn't know then was that my work was also being shared with ODNI directly. That behind the FAA contract, there were other eyes on what I was building. I wouldn't learn that until much later — until I was trying to explain to a congressional staffer why a Geographic Information Systems (GIS) developer from Pennsylvania had ended up at the center of something that reached into the highest levels of the national security apparatus.
 
 But in the spring of 2022, I was just glad to have the job.
 
