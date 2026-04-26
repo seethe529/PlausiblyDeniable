@@ -1,3 +1,11 @@
+# Plausibly Deniable
+
+*Ryan Charles Lingo*
+
+\newpage
+
+\newpage
+
 # Author's Note
 
 This book is dedicated to Kyle, my friends, and my family.
@@ -12,9 +20,7 @@ What you were given was not the truth.
 
 The truth is in these pages. I hope you find it there.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 To everyone who reads this — I want to say something before you turn the page.
 
@@ -31,9 +37,7 @@ Read it carefully. Sit with what it adds up to. And when the easy explanation ar
 *Ryan Charles Lingo, M.A.*
 *April 2026*
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Foreword
 
@@ -47,9 +51,7 @@ What this book asks of you is not belief. It asks attention. Read what happened 
 
 Notice what the list adds up to.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 I want to say something about the phrase *plausibly deniable*, because it is the title of this book, and because understanding what it means is understanding everything that follows.
 
@@ -77,9 +79,7 @@ They had good reasons. The reasons were built in.
 
 The design is the evidence. The deniability is the tell.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 A note on how to read this book.
 
@@ -89,9 +89,7 @@ Each chapter adds a layer. Each layer changes what the previous one means. If yo
 
 The chapters do not editorialize. I have worked to let the facts carry the weight, and to resist the temptation to tell you what to think about them. You will draw your own conclusions. What I ask is that you draw them after reading everything, not before.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 A note on names: everyone named in this book is named because the record requires it. I have not changed names to protect anyone who made decisions that harmed me and then ensured there was no paper trail connecting them to those decisions. The paper trail exists anyway. I kept it.
 
@@ -99,16 +97,12 @@ A note on what I'm asking: read carefully, hold the dates in your mind as you go
 
 That's all. Just notice.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 *Ryan Charles Lingo*
 *April 2026*
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 1: The Offer
 
@@ -212,9 +206,7 @@ I took the metro home.
 
 I wrote all of this down on March 6th because I was trying to hold onto it. The next morning, I was hospitalized. I was in and out of facilities for five weeks. While I was there, Leidos contacted my mother and directed her to ship my Leidos-issued laptop back to the company. The laptop contained my UAP research, the alias account, the code repository — everything. I was in no position to stop it. The official language across all of it was psychiatric. I'd describe it differently — as what happens when a person's entire reality is systematically undermined, the evidence is removed while they cannot act, and no one believes them.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 But this story doesn't start on March 2nd, 2023. It starts earlier, with a job offer, a security clearance, and a genuine belief that the work I was doing mattered.
 
@@ -262,9 +254,7 @@ I wasn't a dissident. I wasn't looking for a fight. I was a geographer, trying t
 
 And then, in the summer of 2022, I noticed something in the data.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 2: What I Saw
 
@@ -350,9 +340,7 @@ I went back to my standing desk after that. The apartment was quiet. The tool wa
 
 Two weeks later they made me transfer the code.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 3: The Second Project
 
@@ -424,9 +412,7 @@ David Williams texted me on March 8th. He was still warm. Still there. By March 
 
 The operator had exited cleanly. The record showed nothing.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 4: Inside
 
@@ -458,9 +444,7 @@ The medication was supposed to help me sleep. It didn't, or not enough, or not i
 
 I couldn't say that out loud. I was already here.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 We took breaks outside. That was the rhythm of the unit — structured time outdoors, back inside, structured time indoors, repeat. It gave the day a shape that didn't require you to think about what the day actually was.
 
@@ -484,9 +468,7 @@ I had context. I didn't sleep that night either.
 
 They discharged me from Brooke Glen after seven days.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 I had already started driving back to DC when I stopped.
 
@@ -524,9 +506,7 @@ A 302 is an involuntary psychiatric commitment under Pennsylvania law. Someone s
 
 I didn't get to say no.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 Horsham was cleaner than Brooke Glen. That's the most I'll say in its favor.
 
@@ -584,9 +564,7 @@ I lay in Horsham and didn't know any of this yet.
 
 I was just trying to remain a person.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 At some point they decided I could leave.
 
@@ -598,9 +576,7 @@ I didn't know yet the full shape of what had been taken while I was in no positi
 
 I would find out.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 5: The Noise
 
@@ -626,9 +602,7 @@ My FAA account had been removed while I was incapacitated. My PIV card — the p
 
 That is what returning to work looked like. Not a welcome back. Not an acknowledgment of what had happened. A trip to a federal office to prove I was still authorized to do the job I had been doing before they took everything.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 The phone was still mine. That was one thing they hadn't taken.
 
@@ -656,9 +630,7 @@ If no one was going to believe my testimony, I would give them something harder 
 
 I saved everything.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 The content escalated. That's the honest way to describe it, not a dramatic shift, not a single moment, but a gradual pressure applied with precision over days and weeks until the accumulation became undeniable.
 
@@ -698,9 +670,7 @@ Some days it worked.
 
 Some days I made the call anyway.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 I was not only documenting. I was still fighting.
 
@@ -730,9 +700,7 @@ I had wishful thinking. I know that now. But I also know that wishful thinking, 
 
 I kept trying.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 At some point I stopped waiting for the wall to move.
 
@@ -748,9 +716,7 @@ I left.
 
 And for the first time in longer than I could measure, the decision was entirely mine.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 6: The External Fight
 
@@ -764,9 +730,7 @@ I am going to name them. I am going to give you their titles and their dates. I 
 
 Not out of bitterness — though I have earned the right to that. Out of precision. Because the pattern is the evidence. Because the accumulation of closed doors is itself a document. Because if you read this list and still believe I didn't try, I don't know what else I can show you.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 ## Part One — Federal Agencies and Officials
 
@@ -814,9 +778,7 @@ I sent a formal letter to Secretary Buttigieg at the Department of Transportatio
 
 No response was ever received.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 ## Part Two — Congressional Offices
 
@@ -893,9 +855,7 @@ I contacted both sides of the aisle on the same day. The issue of a Pentagon off
 
 No response was documented from either office.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 ## Part Three — Legal Contacts
 
@@ -951,9 +911,7 @@ I contacted Lisa Banks, Partner, directly — subject line: *"Potential Civil Cl
 
 Three contacts. Three years. The same firm. The same result.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 ## Part Four — The Press
 
@@ -995,9 +953,7 @@ I BCC'd five investigative outlets on my urgent appeal to the UN Office of the H
 
 The press, like the institutions, like the attorneys, received the information and returned the silence.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 That is the list.
 
@@ -1011,9 +967,7 @@ I kept knocking anyway. I am still knocking.
 
 This book is a knock.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 7: Benson and Bartlett
 
@@ -1041,9 +995,7 @@ And the Air Force was writing back.
 
 Part of me — and I am being completely honest here — wanted to say yes.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 The interview went well. I told them what I was good at. I described my aspirations — the tools I wanted to build, the problems I wanted to solve, the kind of work I had always believed I was meant to do. I expressed genuine thanks for their time. I meant it.
 
@@ -1073,9 +1025,7 @@ I didn't follow.
 
 The ticket sat unused. Somewhere between wanting to go and understanding what going might mean, I stayed where I was.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 On the morning of March 1st I emailed Dr. Benson and Captain Pearson.
 
@@ -1105,9 +1055,7 @@ I know how that reads. I have already told you I know how that reads. What I can
 
 The intimidation did not clear up.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 I filed the SAF/IG complaint on June 1, 2024.
 
@@ -1135,9 +1083,7 @@ I stopped pushing on that door.
 
 I went to Congress instead.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 Senator Casey's office had done everything correctly.
 
@@ -1189,9 +1135,7 @@ The record shows everything.
 
 They just haven't looked at it yet.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Chapter 8: The Cost
 
@@ -1237,9 +1181,7 @@ That is where this chapter begins. Not with the numbers — the seventeen months
 
 But first: the person who was there before, and the specific shape of his absence.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 I remember lying in bed at 1pm when my brother called.
 
@@ -1259,9 +1201,7 @@ I wrote in my journal during that period. I wrote affirmations because I needed 
 
 Some mornings it was enough.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 The NGA sent me a HireVue invitation in June 2024.
 
@@ -1289,9 +1229,7 @@ But I grieved the door.
 
 There was one other thing I held onto during that period. In March 2024, a LinkedIn notification arrived in the alias inbox, the account I had been directed to create, the one that still existed, the one I hadn't deleted because I couldn't bring myself to. The profile was under the name Riley Gaines. Seventy-five views. I didn't create that profile. But I kept the notification. Because some part of me was still afraid of them and still wanted back in at the same time. That's the thing about an institution that destroys you. It doesn't stop feeling like home. The machine had taken everything from me and I still wanted to be inside it, still believed the work that had started under that name wasn't finished, still thought maybe I was the one who was supposed to finish it. That's what they don't account for when they dismantle a person. The part that keeps waiting for things to go back to normal. The part that sees an email from a name that isn't yours and thinks: *maybe it's not over yet.*
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 Leidos ended in August 2023. The same month I started an intensive outpatient program: structured daily therapy for people whose depression has made ordinary functioning impossible. That's what they left me with.
 
@@ -1325,9 +1263,7 @@ I don't know if it was intentional.
 
 I know what it felt like.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 At some point staying stopped being a question.
 
@@ -1365,9 +1301,7 @@ That is what the end of a threshold looks like from the inside. Not a dramatic b
 
 I'm still looking.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+\newpage
 
 # Epilogue: Still Fighting
 
@@ -1391,9 +1325,7 @@ He was there. That's what I remember most clearly about that night. Not what was
 
 I didn't have a plan. What I had was the understanding, somewhere below the exhaustion, that I was not done. Whatever the crossing had taken, it had not taken the fight. I had no job, no apartment, no channel left untried. The fight had nowhere else to go but forward.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 By the time I found stable ground again I had a job and a life that had some shape to it. Not what I had before March 2023, not Navy Yard and a SECRET clearance and a presentation slot at the largest GIS conference in the world. But a real apartment, split with my boyfriend, in a place I actually liked. That mattered more than I expected it to.
 
@@ -1417,9 +1349,7 @@ I was not emotional about it. What I felt was closer to the satisfaction of a da
 
 The geographer had found the anomaly. Now someone with authority needed to look at it.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 I called Representative Luna's office in March 2026.
 
@@ -1439,9 +1369,7 @@ For a moment, a real one, it felt like something might move.
 
 I held onto that for a while.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 Nothing has happened.
 
@@ -1455,9 +1383,7 @@ That is where things stand. Not resolved, not abandoned. The record exists. The 
 
 They took a great deal from me. The record was not among it.
 
-
-<div style="text-align:center">✦ ✦ ✦</div>
-
+---
 
 If you are reading this, you are part of the record now.
 
@@ -1476,3 +1402,15 @@ I still have hope. That is the most defiant thing I can tell you. After three ye
 The record exists.
 
 Find it. Share it. Do something with it.
+
+\newpage
+
+# About the Author
+
+Ryan Charles Lingo, M.A. is a geographer, GIS developer, and former federal employee and contractor who worked within the Federal Aviation Administration's Operations Security Strategic Initiatives Team under Leidos Inc. Prior to his work at the FAA, he served as a Geographer with the United States Census Bureau in Washington, D.C. He holds a Master of Arts in Geography and Environmental Planning from Towson University and has conducted research in partnership with NASA's DEVELOP National Program and the NOAA World Data Center for Paleoclimatology. He held a SECRET-level security clearance.
+
+While working as a GIS Software Developer embedded within the FAA, Lingo developed a UAP monitoring and visualization prototype in response to statistically significant increases in UAP reports to the Air Traffic Control System Command Center. His research abstract, *Comparing Reports of Unidentified Aerial Phenomena to Starlink Satellite Orbits*, was accepted for presentation at the 2023 ESRI User Conference. His work reached the Office of the Director of National Intelligence.
+
+Following retaliation for his disclosures, Lingo filed formal complaints with the DHS Office of Inspector General, the FAA Office of Civil Rights, the Office of Special Counsel, and the Secretary of the Air Force Inspector General. He submitted testimony to the House Permanent Select Committee on Intelligence and worked with the offices of Representative Brian Fitzpatrick and Senator Bob Casey. He submitted an urgent appeal to the UN Office of the High Commissioner for Human Rights. A congressional brief presenting a direct contradiction between Pentagon records and a formal response to a United States Senator remains under active review.
+
+*Plausibly Deniable* is his first book.
