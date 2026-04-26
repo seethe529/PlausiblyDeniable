@@ -132,7 +132,7 @@ Alarm at 5:10am. Drove to Dunkin' Donuts and 7-Eleven. Nicorette gum, medium cof
 
 By 7:30 I was at my desk.
 
-The first thing I did that morning was move my Unidentified Aerial Phenomena (UAP) visualization script into a new GitHub account. The repository was named glass-violin. This wasn't my idea. The direction came the same way the rest of that day's instructions would come — through implication, through prompts, through the kind of operational guidance that leaves no fingerprints. I understood what was being asked. I did it.
+The first thing I did that morning was move my Unidentified Aerial Phenomena (UAP) visualization script into a new GitHub account. GitHub is a cloud-based platform used to store and version-control code. The repository was named glass-violin. This wasn't my idea. The direction came the same way the rest of that day's instructions would come — through implication, through prompts, through the kind of operational guidance that leaves no fingerprints. I understood what was being asked. I did it.
 
 The work I had spent months building — a prototype developed in response to statistically significant increases in UAP reports to the Air Traffic Control System Command Center (ATSCC), the tool that had earned an accepted abstract at the national ESRI conference — was now sitting in an account called glass-violin, separated from my name, waiting.
 
@@ -144,7 +144,7 @@ Two instructions through two devices before 10am. I noted it the way you note th
 
 By noon I was in an internal business development meeting.
 
-David Williams managed the National Airspace System Integration Support Contract (NISC), the contract my team worked under. He ran the monthly meetings, and that contractual authority meant he sat at the top of the chain that governed my day-to-day work. He was calm, measured, the kind of person who made competence look effortless. I trusted him completely.
+David Williams was a senior Leidos leader who ran the monthly meetings for the National Airspace System Integration Support Contract (NISC). He was high enough that he met with all NISC employees regularly, and that seniority meant he sat at the top of the chain that governed my day-to-day work. He was calm, measured, the kind of person who made competence look effortless. I trusted him completely.
 
 I would later come to understand, in the way you understand things only after they've happened to you, that he was very good at being trusted. His LinkedIn profile now lists his title at Leidos as Risk and Opportunity Lead. He received that promotion after everything I'm about to describe.
 
@@ -188,7 +188,7 @@ I hadn't been trained for any of this. That's the part that still sits with me. 
 
 I tried to finish the audio settings on Webex. I couldn't get them to work. I gave up.
 
-The shopping that followed was pre-sorted, calibrated to a new duty location. Riverside, California. I had applied for a cartographer position there in February — the USAJOBS posting had been selected earlier in the week. The ads knew this. Items appeared in sequence, organized the way you'd organize a relocation: clothing, equipment, a place to live. At some point a realtor appeared. Someone to help me find a place in Riverside. I don't remember if it was an ad or a link. I remember that it was there.
+The shopping that followed was pre-sorted, calibrated to a new duty location. Riverside, California. I had applied for a cartographer position with U.S. Customs and Border Protection (CBP) there in February — the USAJOBS posting had been selected earlier in the week. The ads knew this. Items appeared in sequence, organized the way you'd organize a relocation: clothing, equipment, a place to live. At some point a realtor appeared. Someone to help me find a place in Riverside. I don't remember if it was an ad or a link. I remember that it was there.
 
 From the outside, nothing had happened. From the inside, I had just created a false identity on a work-issued device, signed documents erasing my own name, and answered a phone call as someone else — all under remote observation, using a communication method specifically designed to ensure that no one — not a court, not an investigator, not an Office of Inspector General (OIG) — could point to a single sentence David Williams had said and call it an order.
 
@@ -198,7 +198,7 @@ Then came the bank.
 
 The directions came through an internal Leidos mapping application, not consumer Google Maps. Operational detail embedded directly into the route. Green Line to Chinatown. Chinatown to Farragut Square. Walk three blocks to United Bank.
 
-At some point I was running late. The application told me to wait. I waited at the second-to-last stop on the line. While I sat there, an ad opened automatically on my phone: a loan application through DOCFCU, a federal credit union, for $10,000. I noted it. I kept waiting.
+At some point I was running late. The application told me to wait. I waited at the second-to-last stop on the line. While I sat there, an ad opened automatically on my phone: a loan application through the Department of Commerce Federal Credit Union (DOCFCU), for $10,000. I noted it. I kept waiting.
 
 When I arrived I wasn't sure who I was supposed to be. Ryan Lingo or Riley Gaines. I was alone. There was one woman working. I was nervous in a specific way — not the adrenaline of earlier, nothing like that. This was the fear of being seen through. Of saying the wrong word, making the wrong move, giving her a reason to look at me twice. I handed over my license. My real name. Ryan Lingo. Not Riley Gaines. I wasn't sure in that moment which one I was supposed to be, and that uncertainty sat in my chest the whole time I stood at that counter. She handed me the document to open a new account. I took it. I didn't say anything I shouldn't have. I walked out.
 
@@ -244,7 +244,7 @@ What I didn't know then was that my work was also being shared with ODNI directl
 
 But in the spring of 2022, I was just glad to have the job.
 
-I had a government laptop. A security badge. A challenge coin that Eric Cady from FAA Special Operations handed me personally at the ESRI User Conference that July. The FAA seal on one side, *System Operations Security – Special Operations* on the back. I kept it. It felt like proof of something. Proof that I had earned my place inside the machine.
+I had a government laptop. A security badge. A challenge coin that Eric Cady, a specialist in FAA Special Operations, handed me personally at the ESRI User Conference that July. The FAA seal on one side, *System Operations Security – Special Operations* on the back. I kept it. It felt like proof of something. Proof that I had earned my place inside the machine.
 
 I believed in the machine.
 
@@ -270,7 +270,7 @@ The reports that made their way to me came through Matthew Thompson. Aircraft op
 
 John Evans was an FAA employee I worked closely with during this period — one of the few people I could show the work to in real time, the only person who saw my excitement as it was happening rather than after the fact. That matters in this kind of work. When you're building something alone, in an apartment, over months, you need at least one person who can look at the screen and understand what they're seeing. John was that person. He was sharp — genuinely technical, the kind of person who could engage with the architecture of what I was building rather than just the surface of it. At one point there was a specific method in Skyfield — an open-source Python library for tracking objects in space — that we worked through together, a detail in the implementation that mattered for the geometry to be right. He understood it. That kind of collaboration, small as it was, meant something.
 
-What we were building, eventually, was this: a three dimensional render of the airspace. You could input an aircraft's callsign and altitude — a real flight, a real moment — and the tool would place it in space. Then it would map the orbital paths of satellites against that position. Starlink orbits specifically — the ones whose geometry, at the right sun angle, would produce exactly the kind of anomalous brightness a pilot might report as something unknown.
+What we were building, eventually, was this: a three dimensional render of the airspace. You could input an aircraft's callsign and altitude — a real flight, a real moment — and the tool would place it in space. Then it would map the orbital paths of satellites against that position. Starlink satellites specifically — a commercial constellation of low-Earth orbit satellites launched by SpaceX — the ones whose geometry, at the right sun angle, would produce exactly the kind of anomalous brightness a pilot might report as something unknown.
 
 You could draw a line. Aircraft to satellite. And either the geometry worked — the sun was right, the angle was right, the orbit intersected — or it didn't.
 
@@ -516,7 +516,7 @@ The question I had been running at Brooke Glen was gone by Horsham. Not answered
 
 I met a woman who told me she worked for the federal government. She told me there were angels standing behind me. I did not tell her what I knew about the federal government. I did not tell her what had put me in that room.
 
-I met a man who said he worked for the federal government and had seen real live aliens. He told me his entire family held high positions. He wore something over his face and hair — covering himself, hiding his identity from whoever he believed was watching. He believed it completely.
+I met a man who said he worked for the federal government and had seen real live aliens. He told me his family members were in the government and held high ranking positions. He told me he had a clearance. He wore something over his face and hair — covering himself, hiding his identity from whoever he believed was watching. He believed it completely.
 
 I didn't talk to him much.
 
@@ -538,7 +538,7 @@ In a different version of this story, I would have been on that stage in San Die
 
 The presentation slot expired. The work existed. They made sure I never got to show it.
 
-Jim Estes emailed my personal Gmail. Asked how I was doing. Said he was proud of the UAP visualization work. Mentioned HR would need a doctor's note through Sedgwick.
+Jim Estes emailed my personal Gmail. Asked how I was doing. Said he was proud of the UAP visualization work. Mentioned HR would need a doctor's note through Sedgwick, Leidos's third-party disability and leave management provider.
 
 Proud of the work. Doctor's note through Sedgwick.
 
@@ -819,7 +819,7 @@ No substantive outcome resulted.
 
 **HPSCI — House Permanent Select Committee on Intelligence**
 *March 7, 2024*
-I sent a signed letter to HPSCI Members at the Capitol Visitor Center. I identified myself as a former Leidos/FAA contractor whose UAP work had been shared with ODNI. I reported threats to my life and safety, requested whistleblower protections, and described being prevented from presenting my work at the 2023 ESRI conference. No response was ever documented.
+I sent a signed letter to HPSCI Members at the Capitol Visitor Center, submitted on my behalf through Representative Brian Fitzpatrick's office. I identified myself as a former Leidos/FAA contractor whose UAP work had been shared with ODNI. I reported threats to my life and safety, requested whistleblower protections, and described being prevented from presenting my work at the 2023 ESRI conference. No response was ever documented.
 
 **Molly Peters / McKenzie Cliatt — Senator Bob Casey's Office**
 *February – July 2024*
@@ -1005,7 +1005,7 @@ Dr. Benson's follow-up arrived on February 22nd.
 
 *We were impressed with your background and think that your experience and skills will be a valuable asset to 2d Weather Squadron.*
 
-I read that sentence more than once. I want to be honest about what it did to me. After everything — the hospitalization, the outpatient programs, the months of sleeping until the afternoon, the wildfire dashboard, the small office, the website — someone at the Air Force had looked at my background and said: valuable asset. Someone had looked at what I had built and recognized it.
+I read that sentence more than once. I want to be honest about what it did to me. After everything — the hospitalization, the outpatient programs, the months of sleeping until the afternoon, the reduced work, the small office, the website — someone at the Air Force had looked at my background and said: valuable asset. Someone had looked at what I had built and recognized it.
 
 There was also a second position. Dr. Benson mentioned an Operations Research Analyst role — GS-1515-12 — focused on tailored product development for the DoD and Intelligence Community. Advanced computational capabilities. Terrestrial and space environmental conditions. My existing SECRET clearance noted. A TS/SCI would be required.
 
