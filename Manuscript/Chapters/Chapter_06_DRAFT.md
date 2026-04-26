@@ -121,7 +121,7 @@ No substantive outcome resulted.
 
 **HPSCI — House Permanent Select Committee on Intelligence**
 *March 7, 2024*
-I sent a signed letter to HPSCI Members at the Capitol Visitor Center. I identified myself as a former Leidos/FAA contractor whose UAP work had been shared with ODNI. I reported threats to my life and safety, requested whistleblower protections, and described being prevented from presenting my work at the 2023 ESRI conference. No response was ever documented.
+I sent a signed letter to HPSCI Members at the Capitol Visitor Center, submitted on my behalf through Representative Brian Fitzpatrick's office. I identified myself as a former Leidos/FAA contractor whose UAP work had been shared with ODNI. I reported threats to my life and safety, requested whistleblower protections, and described being prevented from presenting my work at the 2023 ESRI conference. No response was ever documented.
 
 **Molly Peters / McKenzie Cliatt — Senator Bob Casey's Office**
 *February – July 2024*

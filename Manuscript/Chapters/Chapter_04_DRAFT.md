@@ -127,7 +127,7 @@ The question I had been running at Brooke Glen was gone by Horsham. Not answered
 
 I met a woman who told me she worked for the federal government. She told me there were angels standing behind me. I did not tell her what I knew about the federal government. I did not tell her what had put me in that room.
 
-I met a man who said he worked for the federal government and had seen real live aliens. He told me his entire family held high positions. He wore something over his face and hair — covering himself, hiding his identity from whoever he believed was watching. He believed it completely.
+I met a man who said he worked for the federal government and had seen real live aliens. He told me his family members were in the government and held high ranking positions. He told me he had a clearance. He wore something over his face and hair — covering himself, hiding his identity from whoever he believed was watching. He believed it completely.
 
 I didn't talk to him much.
 
@@ -149,7 +149,7 @@ In a different version of this story, I would have been on that stage in San Die
 
 The presentation slot expired. The work existed. They made sure I never got to show it.
 
-Jim Estes emailed my personal Gmail. Asked how I was doing. Said he was proud of the UAP visualization work. Mentioned HR would need a doctor's note through Sedgwick.
+Jim Estes emailed my personal Gmail. Asked how I was doing. Said he was proud of the UAP visualization work. Mentioned HR would need a doctor's note through Sedgwick, Leidos's third-party disability and leave management provider.
 
 Proud of the work. Doctor's note through Sedgwick.
 

@@ -60,7 +60,7 @@ Dr. Benson's follow-up arrived on February 22nd.
 
 *We were impressed with your background and think that your experience and skills will be a valuable asset to 2d Weather Squadron.*
 
-I read that sentence more than once. I want to be honest about what it did to me. After everything — the hospitalization, the outpatient programs, the months of sleeping until the afternoon, the wildfire dashboard, the small office, the website — someone at the Air Force had looked at my background and said: valuable asset. Someone had looked at what I had built and recognized it.
+I read that sentence more than once. I want to be honest about what it did to me. After everything — the hospitalization, the outpatient programs, the months of sleeping until the afternoon, the reduced work, the small office, the website — someone at the Air Force had looked at my background and said: valuable asset. Someone had looked at what I had built and recognized it.
 
 There was also a second position. Dr. Benson mentioned an Operations Research Analyst role — GS-1515-12 — focused on tailored product development for the DoD and Intelligence Community. Advanced computational capabilities. Terrestrial and space environmental conditions. My existing SECRET clearance noted. A TS/SCI would be required.
 
