@@ -21,13 +21,9 @@
 
 # Epilogue: Still Fighting
 
-I drove home alone.
+We stopped at Niagara Falls before I crossed. I don't know whose idea it was. We had driven up separately, two cars from Pennsylvania, his and mine, because I needed my car on the other side if it worked. We stood at the falls for a while. The water doesn't care about any of it. Not the binder in the backseat, not the border twenty minutes north, not what was about to happen. It just goes. We didn't say much. We both knew there was a chance I wouldn't be coming back, that the next chapter of this story would be told from somewhere else. We didn't say that out loud. But we both knew it, and we stood there in it until there was nothing left to do but go.
 
-The binder was in the backseat. A hundred and twenty pages of everything I had documented, organized and printed and carried across that border because I was not going in empty-handed. Now it was just weight in a car moving south, back into the country that had done this to me, past the CBP officer who had been sympathetic in the way people are sympathetic when there is nothing they are required to do.
-
-We said goodbye in a parking lot on the American side.
-
-We were both crying. We both knew there was a chance I wouldn't come back, that I would walk through that border and the next chapter of this story would be told from somewhere else. We didn't say that out loud exactly. But the weight of it was real, and we stood there in it for a moment before I had to go.
+He turned south. I turned north.
 
 I crossed alone.
 
