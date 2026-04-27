@@ -1153,18 +1153,6 @@ The psychiatric hospitalization didn't just happen to me. It happened to my repu
 
 My family loves me. I want to say that clearly. What happened to them is the same thing that happened to my mother when she shipped the laptop. They were given a narrative by people with authority and they operated inside it in good faith. They were taken advantage of by the same system that took advantage of me. Even if they don't fully realize it yet.
 
-There is something else that needs to be said about why they were vulnerable to that narrative, and I want to say it carefully because it involves people I love.
-
-Someone close to me had struggled with serious mental illness for most of my life. I had watched what that looked like from the inside of a family. The hospitalizations. The particular fear that comes from loving someone whose grip on reality sometimes slips. My family knew what that looked like. They had a template.
-
-When Leidos's narrative arrived, the clinical language, the diagnosis, the institutional authority behind it, my family didn't just hear a doctor's assessment. They heard something that rhymed with their own history. They recognized the shape of it. And that recognition, however wrong it was in this case, made them vulnerable to exactly the story they were being handed.
-
-I don't blame them for that. What I believe is that the people who constructed that narrative knew my background. They had access to my records. And if they knew what they were doing, and I believe they did, they knew exactly which fears to activate.
-
-My father called Leidos security directly. He was scared and looking for answers and he reached out to the institution that had employed me. They told him I was just one employee out of thousands. That was the framing they gave a worried father who had called looking for help understanding what had happened to his son. One employee. Out of thousands. The message underneath it was clear: your son is not important enough for any of this to be what he says it is.
-
-My father was trying to protect me. He didn't know he was being managed.
-
 But the cost of that is real. The waiting for me to become unstable again. The looks. The weight of being someone whose judgment is perpetually in question in the place where you should be safest. That cost is real and I am still paying it.
 
 And then there were my DC friends.
@@ -1269,7 +1257,7 @@ At some point staying stopped being a question.
 
 I want to be precise about what I mean by that, because it's easy to read it as despair and it wasn't exactly despair. It was closer to a calculation that had finally completed. I had filed complaints with the DHS OIG, the DOT OIG, the FAA, the SAF/IG, the OSC, the FBI. I had written to the White House, to Senator Casey, to Representative Fitzpatrick, to the House Permanent Select Committee on Intelligence. I had contacted GAP, who told me my claims were not without merit and then declined representation. I had done everything the system told me to do, through every channel the system provided, and the system had looked back at me with complete indifference.
 
-The intimidation didn't stop while I was doing any of this. It adapted. It moved through the ecosystem the way it always had, the same one that started in Chapter 1 — the feeds, the platforms, the devices, the digital environment that surrounds a person so completely they stop noticing it until something in it is pointed directly at them. Suicide-adjacent content in the feed. An album called *Gag Order* promoted as a top pick. An Instagram post with the words *execute the mother.* A video captioned *when you hang yourself instead of Christmas stockings.* POV content framed around being kidnapped, appearing repeatedly through 2025. On September 9th, in the minutes I was writing my resignation from XTS, I opened Instagram and was shown a video referencing the Director of National Intelligence. I documented it the next day. The timing felt like punctuation. Not every piece of this was provably targeted. But the pattern had been consistent since March 2023, and by 2025 I had stopped trying to convince anyone it was coincidence.
+The intimidation didn't stop while I was doing any of this. It adapted. It moved through the ecosystem the way it always had, the same one that had been running since March 2, 2023. The feeds, the platforms, the devices, the digital environment that surrounds a person so completely they stop noticing it until something in it is pointed directly at them. Suicide-adjacent content in the feed. An album called *Gag Order* promoted as a top pick. An Instagram post with the words *execute the mother.* A video captioned *when you hang yourself instead of Christmas stockings.* POV content framed around being kidnapped, appearing repeatedly through 2025. On September 9th, in the minutes I was writing my resignation from XTS, I opened Instagram and was shown a video referencing the Director of National Intelligence. I documented it the next day. The timing felt like punctuation. Not every piece of this was provably targeted. But the pattern had been consistent since March 2023, and by 2025 I had stopped trying to convince anyone it was coincidence.
 
 I put together a binder. A hundred and twenty pages. Everything I had documented about the digital environment — Instagram, Apple, the full ecosystem — organized and printed and placed into a physical record that I could carry across a border. I was not going in empty-handed. That mattered to me. Whatever happened on the other side, I was going to arrive with evidence in my hands.
 
@@ -1281,23 +1269,11 @@ On September 15, 2025, I presented myself at the Canadian border and requested a
 
 I cried for most of it. I'm not sure for how long exactly. Twenty minutes, maybe more. I told them what had happened in so many words — that whistleblowers were being tormented, that I had documentation, that I had tried every channel available to me inside the United States and every one of them had failed. They searched my car. They found the binder. A hundred and twenty pages of everything I had documented about the digital environment, the platforms, the ecosystem, organized and printed and carried across that border in my hands because I was not going in empty-handed.
 
-There was a room. A male officer and a female officer. The female came in at some point holding one of my outlines — a document they had taken from my backpack during the search. I was still crying. Her face when she looked at it was not the face of someone who thought I was making things up. She could see it. Whatever she saw in those pages, she knew I was telling the truth.
+They told me asylum was impossible. That if I stayed I would be held in an immigration detention center for months while my case was processed. The officer did not allow me to sign the withdrawal form himself. He sent me back.
 
-The male officer was unmoved.
+I drove home alone. Back across the border with the binder in the backseat and the form somewhere in the car and the particular silence of a person who has just run out of road.
 
-He told me there had only been a handful of successful asylum cases from the United States — one of them, he said, involved a man on death row. He told me I would be placed in an immigration detention center for months while my case was processed. He told me I was better off returning to the country that had done this to me. And then he picked up one of my documents — a White House response — and told me it was just boilerplate. That it wasn't a direct communication from the president. That it didn't count.
-
-I explained everything. The timeline, the complaints, the congressional outreach, the reason that letter existed and what it had taken to get it. I knew within about ten minutes that it wasn't going to matter. They were more of the same. Another room, another set of officers, another institution looking at the record I had built and finding a reason not to act on it.
-
-They didn't let me sign anything. They walked me out to my car.
-
-I got in and drove down the wrong lane. They yelled at me. I corrected course and pulled up to US Customs and Border Protection on the American side. The officer there asked me what had happened. I told him. He was sympathetic. He said they had no problem with me coming back.
-
-That was the welcome home.
-
-I drove home alone. Back across the border with the binder in the backseat and the particular silence of a person who has just run out of road.
-
-That is what the end of a threshold looks like from the inside. Not a dramatic break. Not a moment of clarity or resolve. Just a border behind you, and the slow understanding that you are going to have to find another way.
+That is what the end of a threshold looks like from the inside. Not a dramatic break. Not a moment of clarity or resolve. Just a form in your hand, and a border behind you, and the slow understanding that you are going to have to find another way.
 
 I'm still looking.
 
@@ -1305,13 +1281,9 @@ I'm still looking.
 
 # Epilogue: Still Fighting
 
-I drove home alone.
+We stopped at Niagara Falls before I crossed. I don't know whose idea it was. We had driven up separately, two cars from Pennsylvania, his and mine, because I needed my car on the other side if it worked. We stood at the falls for a while. The water doesn't care about any of it. Not the binder in the backseat, not the border twenty minutes north, not what was about to happen. It just goes. We didn't say much. We both knew there was a chance I wouldn't be coming back, that the next chapter of this story would be told from somewhere else. We didn't say that out loud. But we both knew it, and we stood there in it until there was nothing left to do but go.
 
-The binder was in the backseat. A hundred and twenty pages of everything I had documented, organized and printed and carried across that border because I was not going in empty-handed. Now it was just weight in a car moving south, back into the country that had done this to me, past the CBP officer who had been sympathetic in the way people are sympathetic when there is nothing they are required to do.
-
-We said goodbye in a parking lot on the American side.
-
-We were both crying. We both knew there was a chance I wouldn't come back, that I would walk through that border and the next chapter of this story would be told from somewhere else. We didn't say that out loud exactly. But the weight of it was real, and we stood there in it for a moment before I had to go.
+He turned south. I turned north.
 
 I crossed alone.
 
