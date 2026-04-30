@@ -15,13 +15,15 @@ This book is dedicated to Kyle, my friends, and my family.
 
 To the friends who stayed, you know who you are. You were there during the worst of it and you made me feel heard when hearing me was not easy. That is not a small thing and I have not forgotten it.
 
-To Kyle, you are a scientist and a rational one. You never reached for the easy explanation. You heard everything and you stayed. You made me feel heard without question, without hesitation. You were my anchor through all of it and you are the reason I came home.
+To Kyle, you are a scientist and a rational one. You never reached for the easy explanation. You heard everything and you stayed. You made me feel heard without question, without hesitation. You were my anchor through all of it. You and my family are the reason I came home.
 
 To my family, I love you. What you went through during that period was not okay, and I want you to know I have never forgotten that. You were asked to make sense of something that was designed not to make sense. You did the best you could with what you were given.
 
 What you were given was not the truth.
 
 The truth is in these pages. I hope you find it there.
+
+To my nieces and nephews, you are why I wrote this. Every page of it.
 
 ---
 

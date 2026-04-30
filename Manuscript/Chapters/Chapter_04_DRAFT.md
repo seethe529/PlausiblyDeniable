@@ -27,7 +27,7 @@ The five weeks. Being processed by a system that had already decided what you we
 
 # Chapter 4: Inside
 
-The first thing I did when I got home was ask my parents to help me find a lawyer. I don't remember which one they found. What I remember is telling my mother over and over that day — I need a lawyer. Not because I didn't know what had happened. Because I did.
+The first thing I did when I got home was ask my parents to help me find a lawyer. I don't remember which one they found. What I remember is telling my mother over and over that day. I need a lawyer. Not because I didn't know what had happened. Because I did.
 
 On March 5th, two days after I got home and two days before Brooke Glen, I sent a fax to the DHS Office of Inspector General. I described what had happened. I signed my name to it. I was functioning on almost no sleep and the most destabilizing week of my life, and I filed a federal complaint anyway. That document exists. It is dated March 5, 2023.
 
