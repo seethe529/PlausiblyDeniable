@@ -117,9 +117,7 @@ The following day the accident happened.
 
 I will not put the details on this page. What I'll tell you is that by that point I had not slept properly in nearly two weeks — five days from March 2nd through admission, seven more days at Brooke Glen where the medication was supposed to help and didn't, not really, not in any way that felt like actual rest. They had taken me off the medications I knew and put me on ones I didn't. The ground under every thought had been shifting for two weeks straight. I was not the same person who had driven to Dunkin' Donuts on the morning of March 2nd and ordered a medium coffee, half-decaf, half-regular, and thought the day was going to be ordinary.
 
-What I'll tell you is that my family initiated the 302 that followed.
-
-A 302 is an involuntary psychiatric commitment under Pennsylvania law. Someone signs their name to a document stating that you cannot make certain determinations for yourself and that keeping you safe requires removing your ability to choose. It means the next facility doesn't ask if you want to come in.
+My family made the decision that followed. Under Pennsylvania law a family member can sign a document stating that you cannot make certain determinations for yourself and that keeping you safe requires removing your ability to choose. It means the next facility doesn't ask if you want to come in.
 
 I didn't get to say no.
 
@@ -163,7 +161,7 @@ On March 29th, Sedgwick completed a Provider Statement. The form checked "delusi
 
 The abstract was accepted on March 15th. I was delusional on March 29th. Both documents exist. Both were produced by people operating within the same institutional apparatus.
 
-By that point I had not slept properly in close to three weeks. Five days from March 2nd through admission. Seven more days at Brooke Glen where the medication was supposed to help and didn't. Then the accident. Then the 302. Then Horsham. Three weeks without real sleep, on medications I didn't know, after the most destabilizing sequence of events of my life.
+By that point I had not slept properly in close to three weeks. Five days from March 2nd through admission. Seven more days at Brooke Glen where the medication was supposed to help and didn't. Then the accident. Then the commitment. Then Horsham. Three weeks without real sleep, on medications I didn't know, after the most destabilizing sequence of events of my life.
 
 Three weeks without sleep will affect any person's state of mind. That is not a diagnosis. That is biology.
 
