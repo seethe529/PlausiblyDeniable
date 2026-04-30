@@ -7,24 +7,16 @@
 Plausibly Deniable
 by Ryan Charles Lingo
 
-A federal contractor discovers something in classified airspace data that reaches the Office of the Director of National Intelligence. Before he can present his findings, he is hospitalized. Leidos contacts his mother while he is incapacitated and directs her to ship his work laptop back to the company. His accounts are deleted. His evidence disappears from both sides simultaneously.
+On March 2nd, 2023, a federal contractor with a SECRET security clearance was handed a false identity, directed to erase his own name from government systems, and guided — through methods designed to leave no fingerprints — toward a covert operation he had never been briefed on.
+
+Two days later he filed a federal complaint. Five days after that he was hospitalized.
+
+Ryan Charles Lingo had spent months building a UAP monitoring prototype inside the Federal Aviation Administration — work that reached the Office of the Director of National Intelligence. His research was accepted at the largest GIS conference in the world. He never got to present it.
+
+What followed was a three-year campaign that dismantled his career, his credibility, and his life. He documented all of it. Every federal agency, congressional office, whistleblower attorney, and newsroom that received his evidence and returned the silence. It is all in this book, named and dated.
+
+And buried inside three years of records, he found something that couldn't be explained away.
 
 Every event in this book is documented. Every document is named.
-
-Ryan Charles Lingo held a SECRET security clearance and built UAP monitoring tools inside the Federal Aviation Administration. What was done to him afterward — the alias operation, the unauthorized prescription, the psychiatric targeting, the digital intimidation campaign — was designed to be invisible. Deniable. The kind of operation that looks like a breakdown from the outside and leaves no fingerprints on the inside.
-
-He documented all of it anyway.
-
-He filed complaints with nine federal agencies. He contacted the White House, the FBI, the House Intelligence Committee, multiple U.S. Senators, and the United Nations. Nine law firms reviewed his case. More than a dozen newsrooms received his evidence. He attempted asylum in Canada.
-
-Every door closed.
-
-Then he found the lie.
-
-A GS-15 Pentagon official told a sitting United States Senator in writing that no connection existed between Ryan Lingo and the United States Air Force. Ryan had eleven emails from official Air Force addresses that proved otherwise — a recruitment, an interview, a job offer, and a captain who offered to connect him with military investigators regarding threats to his life.
-
-Both documents exist. Both are in this book.
-
-Plausibly Deniable is the account of what happens when the government decides a civilian knows too much — and what one man did when every institution built to protect him looked the other way.
 
 The record is real. It is now public.
