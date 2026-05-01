@@ -12,13 +12,15 @@ This book is dedicated to Kyle, my friends, and my family.
 
 To the friends who stayed, you know who you are. You were there during the worst of it and you made me feel heard when hearing me was not easy. That is not a small thing and I have not forgotten it.
 
-To Kyle, you are a scientist and a rational one. You never reached for the easy explanation. You heard everything and you stayed. You made me feel heard without question, without hesitation. You were my anchor through all of it and you are the reason I came home.
+To Kyle, you are a scientist and a rational one. You never reached for the easy explanation. You heard everything and you stayed. You made me feel heard without question, without hesitation. You were my anchor through all of it. You and my family are the reason I came home.
 
 To my family, I love you. What you went through during that period was not okay, and I want you to know I have never forgotten that. You were asked to make sense of something that was designed not to make sense. You did the best you could with what you were given.
 
 What you were given was not the truth.
 
 The truth is in these pages. I hope you find it there.
+
+To my nieces and nephews, you are why I wrote this. Every page of it.
 
 ---
 
@@ -362,6 +364,8 @@ What I didn't know then — what I wouldn't understand until much later — was 
 
 I already had a government-issued laptop for my FAA work. The UAP visualization, the data pipelines, the ESRI abstract — all of it lived on that machine. This was different. This laptop came from Leidos. Standard issue, supposedly. Except when I opened it in a dim room on Virginia Avenue — the lights low in a way that felt deliberate, different from the bright open spaces I associated with normal Leidos environments — it hadn't been cleared. The previous user's data was still on it. YouTube videos. Browser history. Someone else's digital life sitting on a machine that had been handed to me as though it were clean. I noted it. It felt sketchy in a way I couldn't fully articulate — not alarm exactly, more like the low-grade unease of something that should have been routine not being routine. I called Leidos to have it wiped. Nobody treated this as unusual except me.
 
+Leidos had provided a compromised machine to a contractor they were positioning for a covert operation. That was not a coincidence.
+
 I came in more than once during that period. Getting the laptop sorted. Getting set up. New chargers. A YubiKey — a physical hardware security token used for two-factor authentication on sensitive systems. I noted that too, the way I had noted the uncleared laptop. Financial dashboards don't typically require that level of access infrastructure. I didn't say anything. I was new. I told myself there were things about government contracting I didn't fully understand yet.
 
 Carey Seery was my security officer, the person assigned to manage my clearance. Her official title was Contract Support, Security Representative, Lead. Her job was to know things about the people she was responsible for. I understood that later. At the time she just seemed like someone who liked to talk.
@@ -415,6 +419,12 @@ The operator had exited cleanly. The record showed nothing.
 \newpage
 
 # Chapter 4: Inside
+
+The first thing I did when I got home was ask my parents to help me find a lawyer. I don't remember which one they found. What I remember is telling my mother over and over that day. I need a lawyer. Not because I didn't know what had happened. Because I did.
+
+On March 5th, two days after I got home and two days before Brooke Glen, I sent a fax to the Department of Homeland Security (DHS) Office of Inspector General. I described what had happened. I signed my name to it. I filed a federal complaint because I knew exactly what had been done to me. 
+
+That document exists. It is dated March 5, 2023.
 
 I was admitted to Brooke Glen Behavioral Health on March 7th, 2023. By that point the sequence of events since March 2nd had made that outcome feel inevitable to everyone around me.
 
@@ -500,9 +510,7 @@ The following day the accident happened.
 
 I will not put the details on this page. What I'll tell you is that by that point I had not slept properly in nearly two weeks — five days from March 2nd through admission, seven more days at Brooke Glen where the medication was supposed to help and didn't, not really, not in any way that felt like actual rest. They had taken me off the medications I knew and put me on ones I didn't. The ground under every thought had been shifting for two weeks straight. I was not the same person who had driven to Dunkin' Donuts on the morning of March 2nd and ordered a medium coffee, half-decaf, half-regular, and thought the day was going to be ordinary.
 
-What I'll tell you is that my family initiated the 302 that followed.
-
-A 302 is an involuntary psychiatric commitment under Pennsylvania law. Someone signs their name to a document stating that you cannot make certain determinations for yourself and that keeping you safe requires removing your ability to choose. It means the next facility doesn't ask if you want to come in.
+My family made the decision that followed. Under Pennsylvania law a family member can sign a document stating that you cannot make certain determinations for yourself and that keeping you safe requires removing your ability to choose. It means the next facility doesn't ask if you want to come in.
 
 I didn't get to say no.
 
@@ -546,7 +554,7 @@ On March 29th, Sedgwick completed a Provider Statement. The form checked "delusi
 
 The abstract was accepted on March 15th. I was delusional on March 29th. Both documents exist. Both were produced by people operating within the same institutional apparatus.
 
-By that point I had not slept properly in close to three weeks. Five days from March 2nd through admission. Seven more days at Brooke Glen where the medication was supposed to help and didn't. Then the accident. Then the 302. Then Horsham. Three weeks without real sleep, on medications I didn't know, after the most destabilizing sequence of events of my life.
+By that point I had not slept properly in close to three weeks. Five days from March 2nd through admission. Seven more days at Brooke Glen where the medication was supposed to help and didn't. Then the accident. Then the commitment. Then Horsham. Three weeks without real sleep, on medications I didn't know, after the most destabilizing sequence of events of my life.
 
 Three weeks without sleep will affect any person's state of mind. That is not a diagnosis. That is biology.
 
