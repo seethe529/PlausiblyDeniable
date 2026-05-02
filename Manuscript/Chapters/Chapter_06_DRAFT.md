@@ -131,7 +131,7 @@ The Air Force responded thirty days later. That response is the subject of the n
 
 **Representative Nancy Mace's Office**
 *November 18, 2024*
-I contacted Representative Nancy Mace's office and spoke with a staffer by phone. I submitted a signed privacy release form on November 18, 2024, listing the Department of Defense and Air Force as the agencies involved. I also submitted the HPSCI letter through her office. No substantive response was received.
+I contacted Representative Nancy Mace's office and spoke with a staffer by phone. I submitted a signed privacy release form listing the Department of Defense and Air Force as the agencies involved. I also submitted the HPSCI letter through her office. No substantive response was received.
 
 **House Oversight Committee Democrats — Signal**
 *February 5, 2026*
