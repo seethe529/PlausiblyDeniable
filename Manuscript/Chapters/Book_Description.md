@@ -17,6 +17,6 @@ What followed was a three-year campaign that dismantled his career, his credibil
 
 And buried inside three years of records, he found something that couldn't be explained away.
 
-Every event in this book is documented. Every document is named.
+Every event in this book is documented. This book was written from the documents.
 
 The record is real. It is now public.
